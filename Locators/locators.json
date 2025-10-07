@@ -37,6 +37,37 @@
 
     "TravelInsurance":{
         
+    },
+
+    "HomePage":{
+       "petTypeLabel": "Pet Parent/Breeder",
+  "enterPetDetails": "Enter Pet Details",
+  "ageDropdown": "#age_0",
+  "nextButton": "NEXT",
+  "pincodeField": "Pincode* Down",
+  "getQuoteButton": "Get quote",
+  "skipButton": "SKIP FOR NOW",
+  "nextIconAlt": "Next icon"
+    },
+    "PetDetailsPage":{
+       "petTypeLabel": "Pet Parent/Breeder",
+  "enterPetDetails": "Enter Pet Details",
+  "ageDropdown": "#age_0",
+  "nextButton": "NEXT",
+  "pincodeField": "Pincode* Down",
+  "getQuoteButton": "Get quote",
+  "skipButton": "SKIP FOR NOW",
+  "nextIconAlt": "Next icon"
+    },
+    "PetInsurancePage":{
+       "petTypeLabel": "Pet Parent/Breeder",
+  "enterPetDetails": "Enter Pet Details",
+  "ageDropdown": "#age_0",
+  "nextButton": "NEXT",
+  "pincodeField": "Pincode* Down",
+  "getQuoteButton": "Get quote",
+  "skipButton": "SKIP FOR NOW",
+  "nextIconAlt": "Next icon"
     }
 
 }
