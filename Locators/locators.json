@@ -2,11 +2,23 @@
     "BasePage":{
     },
 
-    "CarDummy":{
-    },
+  "carDummy": {
+    "nameTextboxRole": "textbox",
+    "nameTextboxLabel": "Name*",
+    "mobileTextboxRole": "textbox",
+    "mobileTextboxLabel": "Mobile Number*",
+    "cityDropdown": "#bannerjm",
+    "quoteButtonRole": "button",
+    "quoteButtonLabel": "GET A QUOTE",
+    "errorMessage": "#errMobile1"
+  },
+  "carInsurance": {
+    "carInsuranceLinkRole": "link",
+    "carInsuranceLinkLabel": "Car Insurance",
+    "filtersTab": "#filtersTab",
+    "homeUrl": "https://www.hdfcergo.com"
+  },
 
-    "CarInsurance":{
-    },
 
     "HealthInsurance":{
 
