@@ -1,4 +1,4 @@
-import { test, expect } from '../fixtures/exploreFixtures';
+import { test, expect } from '../fixtures/page-fixtures';
 
 test('Print submenu items under Health Insurance Health', async ({
   healthInsuranceItems
