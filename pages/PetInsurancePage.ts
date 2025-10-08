@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 import { BasePage } from './BasePage';
-
+ 
 export class PetInsurancePage extends BasePage {
   async clickBuyNow() {
     const popupPromise = this.page.waitForEvent('popup');
@@ -8,3 +8,4 @@ export class PetInsurancePage extends BasePage {
     return await popupPromise;
   }
 }
+ 

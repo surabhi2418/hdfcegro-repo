@@ -1,5 +1,9 @@
 import { Page, Locator, expect } from '@playwright/test';
+<<<<<<< HEAD
 import locators from '../locators/locators.json'; // adjust path as needed
+=======
+import locators from '../Locators/locators.json'; // adjust path as needed
+>>>>>>> d88b23ae462eec798e2841956ae3d5ada6429295
 export class ExploreMenuPage {
   readonly page: Page;
   readonly exploreMenu: Locator;
@@ -60,4 +64,8 @@ export class ExploreMenuPage {
     return items;
   }
 }
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> d88b23ae462eec798e2841956ae3d5ada6429295
  

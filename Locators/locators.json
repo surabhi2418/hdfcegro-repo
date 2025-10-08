@@ -29,22 +29,8 @@
       "submenuItem": "ul li a.sub-anchor"
     },
     
-    "InsurancePlan":{
 
-    },
-
-    "StudentTravel":{
-
-    },
-
-    "TravelDetails":{
-
-    },
-
-    "TravelInsurance":{
-        
-    },
-
+    
     "HomePage":{
        "petTypeLabel": "Pet Parent/Breeder",
   "enterPetDetails": "Enter Pet Details",
@@ -74,6 +60,27 @@
   "getQuoteButton": "Get quote",
   "skipButton": "SKIP FOR NOW",
   "nextIconAlt": "Next icon"
-    }
+    },
+    "travel": {
+    "gstLink": "role=link[name='% GST Travel Insurance']",
+    "travellerTypeLabel": "label >> nth=1",
+    "buyNowButton": "text=BUY NOW >> nth=0",
+    "selectTraveller": "text=Select Traveller",
+    "ageInput": "#Travellers_0__TravellerAge",
+    "continueButton": "role=button[name='Continue']",
+    "countryInput": "role=textbox[name='Country(ies) of visit']",
+    "countrySelect": "role=treeitem[name='Germany']",
+    "departureDateInput": "#departureDate",
+    "departureTextbox": "role=textbox[name='dd/mm/yyyy'] >> nth=0",
+    "returnDateInput": "#returnDate",
+    "returnTextbox": "role=textbox[name='dd/mm/yyyy'] >> nth=1",
+    "viewQuoteLink": "role=link[name='view quote'][exact=true]",
+    "nameInput": "role=textbox[name='Name']",
+    "emailInput": "role=textbox[name='Email']",
+    "mobileInput": "role=spinbutton[name='Mobile Number']",
+    "planDetails": "li.plan-details",
+    "planName": "h2.plan-name",
+    "planPremium": "span.text-amount"
+  }
 
 }
