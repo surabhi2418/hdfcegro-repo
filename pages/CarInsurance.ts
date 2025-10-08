@@ -1,20 +1,5 @@
-// import { Page } from '@playwright/test';
-
-// export class CarInsurance {
-//   constructor(private page: Page) {}
-
-//   async navigateHome() {
-//     await this.page.goto('https://www.hdfcergo.com');
-//   }
-
-//   async selectCarDetails() {
-//     const popupPromise = this.page.waitForEvent('popup');
-//     await this.page.locator('#filtersTab').getByRole('link', { name: 'Car Insurance' }).click();
-//     return await popupPromise;
-//   }
-// }
 import { Page } from '@playwright/test';
-import locators from '../locators/locators.json';
+import locators from '../Locators/locators.json';
 
 export class CarInsurance {
   constructor(private page: Page) {}

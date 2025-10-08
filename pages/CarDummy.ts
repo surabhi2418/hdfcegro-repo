@@ -1,5 +1,5 @@
 import { Page } from '@playwright/test';
-import locators from '../locators/locators.json';
+import locators from '../Locators/locators.json';
 import * as fs from 'fs';
 
 export class CarDummy {

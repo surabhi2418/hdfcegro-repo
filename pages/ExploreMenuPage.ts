@@ -1,5 +1,5 @@
 import { Page, Locator } from '@playwright/test';
-import locators from '../locators/locators.json'; // adjust path as needed
+import locators from '../Locators/locators.json'; 
 
 export class ExploreMenuPage {
   readonly page: Page;

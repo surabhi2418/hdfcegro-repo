@@ -29,22 +29,8 @@
       "submenuItem": "ul li a.sub-anchor"
     },
     
-    "InsurancePlan":{
 
-    },
-
-    "StudentTravel":{
-
-    },
-
-    "TravelDetails":{
-
-    },
-
-    "TravelInsurance":{
-        
-    },
-
+    
     "HomePage":{
        "petTypeLabel": "Pet Parent/Breeder",
   "enterPetDetails": "Enter Pet Details",
