@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11727","Car Insurance: Dummy details and error message","chromium","Wed Oct 08 21:58:52 IST 2025","passed","Wed Oct 08 21:59:04 IST 2025","","testfile.spec.ts","",""
+"","7910","Print submenu items under Health Insurance Health","chromium","Wed Oct 08 21:58:53 IST 2025","passed","Wed Oct 08 21:59:00 IST 2025","","explore-menu.spec.ts","",""
+"","20087","Pet Insurance Flow","chromium","Wed Oct 08 21:58:52 IST 2025","passed","Wed Oct 08 21:59:12 IST 2025","","PetInsurance.spec.ts","",""

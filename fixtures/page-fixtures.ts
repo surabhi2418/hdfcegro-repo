@@ -24,8 +24,8 @@
  
 // export { expect };
 import { test as baseTest, expect, Page } from '@playwright/test';
-import { CarInsurance } from '../pages/CarInsurance';
-import { CarDummy } from '../pages/CarDummy';
+import { CarInsurance } from '../pages/CarInsurancePage';
+import { CarDummy } from '../pages/CarPage';
 import { ExploreMenuPage } from '../pages/ExploreMenuPage';
 
 // Page fixture combining CarInsurance and CarDummy

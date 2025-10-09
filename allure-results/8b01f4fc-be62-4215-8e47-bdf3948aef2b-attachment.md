@@ -1,0 +1,1578 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - paragraph [ref=e7]:
+      - text: "\"BEWARE OF SPURIOUS PHONE CALLS AND FICTIOUS / FRADULENT OFFERS, IRDAI or its officials do not involve in activities like selling insurance policies, announcing bonus or investment of premiums. Public receiving such phone calls are requested to lodge a police complaint\". | \"22,02,2018 lives covered by HDFC ERGO under PMSBY as on 31st May 2024."
+      - link "Click here to know more!" [ref=e8] [cursor=pointer]:
+        - /url: /health-insurance/pradhan-mantri-suraksha-bima-yojana/
+      - text: "\" | \"Dear Users, Ayushman Bharat Health Account (ABHA) is an initiative by National Health Authority (NHA), Ministry of Health and Family Welfare, Government of India, to create a digital health ecosystem. With ABHA, you can access and share your health record digitally."
+      - link "Click to know more" [ref=e9] [cursor=pointer]:
+        - /url: https://healthid.ndhm.gov.in/register
+      - text: "\""
+    - generic [ref=e12]:
+      - generic [ref=e14]:
+        - img "Wellness Corner" [ref=e15]
+        - link "Wellness Corner NEW" [ref=e16] [cursor=pointer]:
+          - /url: "/health-insurance/wellness-corner "
+      - generic [ref=e18]:
+        - combobox [ref=e20] [cursor=pointer]:
+          - option "English" [selected]
+          - option "हिंदी"
+          - option "मराठी"
+          - option "தமிழ்"
+          - option "ગુજરાતી"
+          - option "ಕನ್ನಡ"
+          - option "తెలుగు"
+          - option "বাংলা"
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - img "Call To Buy" [ref=e25]
+            - 'link "Call To Buy: 022 6242 6242" [ref=e27] [cursor=pointer]':
+              - /url: tel:022 6242 6242
+              - generic [ref=e28]: "Call To Buy:"
+              - generic [ref=e29]: 022 6242 6242
+          - link "Contact Us" [ref=e31] [cursor=pointer]:
+            - /url: /customer-voice/customer-care
+    - navigation [ref=e34]:
+      - generic [ref=e37]:
+        - list [ref=e38]:
+          - listitem [ref=e39]:
+            - link "Menu" [ref=e40] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "menu-icon-left" [ref=e41]
+          - listitem [ref=e42]:
+            - link "BUY " [ref=e43] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: BUY
+              - generic [ref=e44]: 
+          - listitem [ref=e45]:
+            - link "EXPLORE " [ref=e46] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: EXPLORE
+              - generic [ref=e47]: 
+            - text:         
+        - link "logo" [ref=e48] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e49]
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - link "RENEW " [ref=e52] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: RENEW
+              - generic [ref=e53]: 
+          - listitem [ref=e54]:
+            - link "CLAIM " [ref=e55] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: CLAIM
+              - generic [ref=e56]: 
+            - text:    
+          - listitem [ref=e57]:
+            - link "login" [ref=e59] [cursor=pointer]:
+              - /url: https://www.hdfcergo.com/dashboard/auth/login/
+    - listbox [ref=e62]:
+      - img "Travel Insurance" [ref=e65] [cursor=pointer]
+      - link "Travel Insurance" [ref=e67] [cursor=pointer]:
+        - /url: https://travel.hdfcergo.com/home?agentcode=U2FsdGVkX19w2XubotSP7xgpA32aRNAwHgigcM4B04A%3D&requestsource=U2FsdGVkX1%2FlhHxyN23CfjuT1bVnTKZ327iMXcqbWYY%3D
+        - img "Travel Insurance" [ref=e69]
+      - list [ref=e70]:
+        - listitem [ref=e71] [cursor=pointer]
+        - listitem [ref=e72] [cursor=pointer]
+        - listitem [ref=e73] [cursor=pointer]
+        - listitem [ref=e74] [cursor=pointer]
+        - listitem [ref=e75] [cursor=pointer]
+    - generic [ref=e77]:
+      - list [ref=e78]:
+        - listitem [ref=e79]:
+          - generic [ref=e80] [cursor=pointer]: Buy
+        - listitem [ref=e81]:
+          - generic [ref=e82] [cursor=pointer]: Renew
+        - listitem [ref=e83]:
+          - generic [ref=e84] [cursor=pointer]: Claims
+        - listitem [ref=e85]:
+          - generic [ref=e86] [cursor=pointer]: Help
+      - list [ref=e89]:
+        - listitem [ref=e90]:
+          - link "0% GST Health Insurance" [ref=e91] [cursor=pointer]:
+            - /url: /health-insurance
+            - generic [ref=e92]: 0% GST
+            - img [ref=e95]
+            - heading "Health Insurance" [level=5] [ref=e105]
+        - listitem [ref=e106]:
+          - link "0% GST Travel Insurance" [ref=e107] [cursor=pointer]:
+            - /url: /travel-insurance
+            - generic [ref=e108]: 0% GST
+            - img [ref=e111]
+            - heading "Travel Insurance" [level=5] [ref=e281]
+        - listitem [ref=e282]:
+          - link "Car Insurance" [ref=e283] [cursor=pointer]:
+            - /url: /car-insurance
+            - img [ref=e286]
+            - heading "Car Insurance" [level=5] [ref=e365]
+        - listitem [ref=e366]:
+          - link "Bike Insurance" [ref=e367] [cursor=pointer]:
+            - /url: /two-wheeler-insurance
+            - img [ref=e370]
+            - heading "Bike Insurance" [level=5] [ref=e470]
+        - listitem [ref=e471]:
+          - link "Home Insurance" [ref=e472] [cursor=pointer]:
+            - /url: /home-insurance
+            - img [ref=e475]
+            - heading "Home Insurance" [level=5] [ref=e522]
+        - listitem [ref=e523]:
+          - link "cat Pet Insurance" [active] [ref=e524] [cursor=pointer]:
+            - /url: /pet-insurance
+            - img "cat" [ref=e527]
+            - heading "Pet Insurance" [level=5] [ref=e528]
+        - listitem [ref=e529]:
+          - link "PMFBY" [ref=e530] [cursor=pointer]:
+            - /url: /pmfby-rabi-2024-25/pradhan-mantri-fasal-bima-yojana
+            - img [ref=e533]
+            - heading "PMFBY" [level=5] [ref=e562]
+        - listitem [ref=e563]:
+          - generic [ref=e564]:
+            - img [ref=e567] [cursor=pointer]
+            - heading "More Products" [level=5] [ref=e579]
+    - generic [ref=e582]:
+      - generic [ref=e583]:
+        - img "HDFC ERGO's Happy Customer" [ref=e584]
+        - generic [ref=e585]:
+          - heading "3.2 Crore+" [level=3] [ref=e586]
+          - generic [ref=e587]: Happy Customers@
+      - generic [ref=e588]:
+        - img "12200+ Cashless Garages by HDFC ERGO" [ref=e589]
+        - link "12200+ Cashless Motor Garagesˇ" [ref=e591] [cursor=pointer]:
+          - /url: "#network-branches-id"
+          - heading "12200+" [level=3] [ref=e592]
+          - generic [ref=e593]: Cashless Motor Garagesˇ
+      - generic [ref=e594]:
+        - img "Cashless Motor Garages+ Cashless Network providers by HDFC ERGO" [ref=e595]
+        - link "15000+ Cashless Networkˇˇ" [ref=e597] [cursor=pointer]:
+          - /url: "#network-branches-id"
+          - heading "15000+" [level=3] [ref=e598]
+          - generic [ref=e599]: Cashless Networkˇˇ
+      - generic [ref=e600]:
+        - img "4.2 Customer Rating by HDFC ERGO" [ref=e601]
+        - link "4.2 Customer Ratings" [ref=e603] [cursor=pointer]:
+          - /url: "#customer_review"
+          - heading "4.2" [level=3] [ref=e604]
+          - generic [ref=e605]: Customer Ratings
+    - generic [ref=e607]:
+      - heading "Our Offerings" [level=2] [ref=e609]
+      - generic [ref=e610]:
+        - list [ref=e611]:
+          - listitem [ref=e612]:
+            - generic [ref=e613] [cursor=pointer]: Health
+          - listitem [ref=e614]:
+            - generic [ref=e615] [cursor=pointer]: Car
+          - listitem [ref=e616]:
+            - generic [ref=e617] [cursor=pointer]: Bike
+          - listitem [ref=e618]:
+            - generic [ref=e619] [cursor=pointer]: Travel
+          - listitem [ref=e620]:
+            - generic [ref=e621] [cursor=pointer]: Home
+          - listitem [ref=e622]:
+            - generic [ref=e623] [cursor=pointer]: Pet
+        - generic [ref=e626]:
+          - paragraph [ref=e627]:
+            - text: Health insurance provides a financial protection from unexpected medical emergency that can occur due to any illnesses or accident. HDFC ERGO brings a variety of health insurance products for different needs which provides benefits like cashless hospitalisation through its large network, tax savings under section 80D, no-claim bonus and many more.
+            - link "Explore more" [ref=e628] [cursor=pointer]:
+              - /url: /health-insurance
+          - generic [ref=e629]:
+            - generic [ref=e631]:
+              - generic [ref=e634]:
+                - generic [ref=e635]:
+                  - img "Buy Optima Secure Plan by HDFC ERGO" [ref=e638]
+                  - heading "Optima Secure" [level=4] [ref=e640]
+                - list [ref=e641]:
+                  - listitem [ref=e642]: 4X Coverage Guaranteed at no additional cost°°
+                  - listitem [ref=e643]: Secure Benefit'*
+                  - listitem [ref=e644]: No cost installment benefit*^
+                  - listitem [ref=e645]: Protect Benefit- Guarantees payment of consumables like non-medical expenses
+                - generic [ref=e646]:
+                  - link "VIEW DETAIL" [ref=e647] [cursor=pointer]:
+                    - /url: /health-insurance/optima-secure
+                    - button "VIEW DETAIL" [ref=e648]
+                  - button "BUY NOW" [ref=e649] [cursor=pointer]
+              - generic [ref=e651]:
+                - generic [ref=e652]: Just Launched
+                - generic [ref=e653]:
+                  - generic [ref=e654]:
+                    - img "Optima Lite" [ref=e657]
+                    - heading "Optima Lite" [level=4] [ref=e659]
+                  - list [ref=e660]:
+                    - listitem [ref=e661]: Base sum insured upto INR 5 lac or INR 7.5 lac
+                    - listitem [ref=e662]: Comprehensive coverage at affordable premiums
+                    - listitem [ref=e663]: Automatic restore for unlimited period during a policy year
+                    - listitem [ref=e664]: Cumulative bonus and Preventive health check-ups on renewal
+                  - generic [ref=e665]:
+                    - link "VIEW DETAIL" [ref=e666] [cursor=pointer]:
+                      - /url: /health-insurance/optima-lite
+                      - button "VIEW DETAIL" [ref=e667]
+                    - button "BUY NOW" [ref=e668] [cursor=pointer]
+              - generic [ref=e670]:
+                - generic [ref=e671]: Just Launched
+                - generic [ref=e672]:
+                  - generic [ref=e673]:
+                    - 'img "my: Optima Secure Global Plan" [ref=e676]'
+                    - heading "Optima Secure Global" [level=4] [ref=e678]
+                  - list [ref=e679]:
+                    - listitem [ref=e680]: Global Medical Coverage
+                    - listitem [ref=e681]: 4X Coverage Guaranteed at no additional cost°°
+                    - listitem [ref=e682]: Secure Benefit'*
+                    - listitem [ref=e683]: No cost installment benefit*^
+                  - generic [ref=e684]:
+                    - link "VIEW DETAIL" [ref=e685] [cursor=pointer]:
+                      - /url: /health-insurance/optima-secure-global-family-plan
+                      - button "VIEW DETAIL" [ref=e686]
+                    - button "BUY NOW" [ref=e687] [cursor=pointer]
+              - generic [ref=e690]:
+                - generic [ref=e691]:
+                  - img "Buy Optima Restore Plan by HDFC ERGO" [ref=e694]
+                  - heading "Optima Restore" [level=4] [ref=e696]
+                - list [ref=e697]:
+                  - listitem [ref=e698]: 100% Restore Coverage~
+                  - listitem [ref=e699]: 2X Multiplier Benefits
+                  - listitem [ref=e700]: Wider Pre and Post Hospitalization"
+                  - listitem [ref=e701]: 100% Sum Insured Restoration Benefit̑̑
+                - generic [ref=e702]:
+                  - link "VIEW DETAIL" [ref=e703] [cursor=pointer]:
+                    - /url: /health-insurance/optima-restore-family-floater-plan
+                    - button "VIEW DETAIL" [ref=e704]
+                  - button "BUY NOW" [ref=e705] [cursor=pointer]
+              - generic [ref=e708]:
+                - generic [ref=e709]:
+                  - 'img "Buy My: Health Medisure Super Top up Plan by HDFC ERGO" [ref=e712]'
+                  - 'heading "My: Health Medisure Super Top up" [level=4] [ref=e714]'
+                - list [ref=e715]:
+                  - listitem [ref=e716]: Higher cover at low premium
+                  - listitem [ref=e717]: No health checkups up to Age 55
+                  - listitem [ref=e718]: Works on Aggregate deductible
+                  - listitem [ref=e719]: No premium hike post 61 years
+                - generic [ref=e720]:
+                  - link "VIEW DETAIL" [ref=e721] [cursor=pointer]:
+                    - /url: /health-insurance/my-health-medisure-super-top-up-insurance
+                    - button "VIEW DETAIL" [ref=e722]
+                  - button "BUY NOW" [ref=e723] [cursor=pointer]
+              - generic [ref=e726]:
+                - generic [ref=e727]:
+                  - img "Buy Critical Illness Plan by HDFC ERGO" [ref=e730]
+                  - heading "Critical Illness" [level=4] [ref=e732]
+                - list [ref=e733]:
+                  - listitem [ref=e734]: Covers upto 15 Critical Illness
+                  - listitem [ref=e735]: Lumpsum Payouts
+                  - listitem [ref=e736]: Affordable Premiums
+                  - listitem [ref=e737]: No medical checkups up to the age of 45 years
+                - generic [ref=e738]:
+                  - link "VIEW DETAIL" [ref=e739] [cursor=pointer]:
+                    - /url: /health-insurance/critical-illness-insurance
+                    - button "VIEW DETAIL" [ref=e740]
+                  - button "BUY NOW" [ref=e741] [cursor=pointer]
+            - img "next" [ref=e743] [cursor=pointer]
+            - generic:
+              - img "previous"
+    - generic [ref=e745]:
+      - heading "Why Choose HDFC ERGO?" [level=1] [ref=e747]
+      - generic [ref=e749]:
+        - generic [ref=e751]:
+          - img "Happy Customers by HDFC ERGO" [ref=e753]
+          - heading "Secured 3.2+ Crore Happy Customers@" [level=2] [ref=e754]
+          - paragraph [ref=e755]: Trust redefines relations at HDFC ERGO. We consistently strive to make insurance easier, more affordable and more dependable.
+        - generic [ref=e757]:
+          - img "24x7 Claims assistance°°°" [ref=e759]
+          - heading "24x7 Claims Assistance°°°" [level=2] [ref=e760]:
+            - text: 24x7 Claims
+            - text: Assistance°°°
+          - paragraph [ref=e761]: In the time of distress, instant help is the need of the hour. Our in-house claims team is always there to provide a hassle-free claim experience.
+        - generic [ref=e763]:
+          - img "Trusted Brand by HDFC ERGO" [ref=e765]
+          - heading "23 Years Of Serving India" [level=2] [ref=e766]:
+            - text: 23 Years Of
+            - text: Serving India
+          - paragraph [ref=e767]: Since last 23 years, we are committed towards serving India with technology driven insurance solutions with a human heart.
+        - generic [ref=e769]:
+          - img "Utmost Transparency by HDFC ERGO" [ref=e771]
+          - heading "Utmost Transparency" [level=2] [ref=e772]:
+            - text: Utmost
+            - text: Transparency
+          - paragraph [ref=e773]: HDFC ERGO General Insurance claims are settled with utmost transparency and ease.
+        - generic [ref=e775]:
+          - img "Lauded And Awarded by HDFC ERGO" [ref=e777]
+          - heading "Lauded And Awarded" [level=2] [ref=e778]:
+            - text: Lauded And
+            - text: Awarded
+          - paragraph [ref=e779]: HDFC ERGO has been recognised as the 'Best General Insurance Company' at the 7th Annual Insurance Conclave & Awards - 2024, organised by Insurance Alerts.
+        - generic [ref=e781]:
+          - img "Large Footprint by HDFC ERGO" [ref=e783]
+          - heading "Cashless Network Garages" [level=2] [ref=e784]:
+            - text: Cashless Network
+            - text: Garages
+          - paragraph [ref=e785]: With our robust network of 15000+ˇˇ Cashless Healthcare providers and 12200+ Cashless Motor Garagesˇ help is never too far.
+    - generic [ref=e787]:
+      - heading "Key Updates" [level=2] [ref=e789]
+      - generic [ref=e790]:
+        - generic [ref=e791]:
+          - link "BIMAGYAAN" [ref=e796] [cursor=pointer]:
+            - /url: https://www.mygov.in/
+            - img "BIMAGYAAN" [ref=e798]
+          - link "State insurance awareness by HDFC ERGO" [ref=e803] [cursor=pointer]:
+            - /url: /stateinsuranceawareness
+            - img "State insurance awareness by HDFC ERGO" [ref=e805]
+        - generic [ref=e806]:
+          - link "Track any unclaimed amount against your policy" [ref=e811] [cursor=pointer]:
+            - /url: /claim/trackclaim_refund_payment_status
+            - img "Track any unclaimed amount against your policy" [ref=e813]
+          - img "Accounts Aggregator Foundation Day" [ref=e820]
+    - generic [ref=e823]:
+      - list [ref=e824]:
+        - listitem [ref=e825]:
+          - link "Hospitals" [ref=e826] [cursor=pointer]:
+            - /url: "#HospitalTab"
+        - listitem [ref=e827]:
+          - link "Garages" [ref=e828] [cursor=pointer]:
+            - /url: "#GarageTab"
+        - listitem [ref=e829]:
+          - link "Branches" [ref=e830] [cursor=pointer]:
+            - /url: "#BranchesTab"
+      - generic [ref=e833]:
+        - img "Cashless Network across India by HDFC ERGO" [ref=e836]
+        - generic [ref=e837]:
+          - generic [ref=e838]:
+            - generic [ref=e839]: 15000+
+            - text: Cashless Networkˇˇ across India
+          - generic [ref=e840]: Find Your Nearest Cashless Hospitals
+          - generic [ref=e841]:
+            - generic [ref=e842]:
+              - textbox "Enter your area pincode" [ref=e843]
+              - img "search-icon" [ref=e845] [cursor=pointer]
+            - generic [ref=e846]: OR
+            - link "LOCATE HOSPITAL NEAR YOU" [ref=e847] [cursor=pointer]:
+              - /url: /locators/cashless-hospitals-networks
+              - button "LOCATE HOSPITAL NEAR YOU" [ref=e848]
+    - generic [ref=e850]:
+      - heading "Hear From Our Happy Customers" [level=2] [ref=e852]
+      - generic [ref=e856]:
+        - generic [ref=e858]:
+          - generic [ref=e860]:
+            - img "quote" [ref=e862]
+            - generic [ref=e863]:
+              - img "MANINDER SINGH" [ref=e864]
+              - generic [ref=e865]:
+                - heading "MANINDER SINGH" [level=3] [ref=e866]
+                - text: OPTIMA RESTORE
+                - paragraph [ref=e867]: February 2024
+                - paragraph [ref=e868]: PALWAL
+            - generic [ref=e869]: I am really impressed and happy with the 10/10 services I received from HDFC ERGO customer support team. I am definitely going to continue this association with HDFC ERGO and would also recommend my friends and relatives to get health insurance from you.
+          - generic [ref=e871]:
+            - img "quote" [ref=e873]
+            - generic [ref=e874]:
+              - img "HAJIRA BEGUM" [ref=e875]
+              - generic [ref=e876]:
+                - heading "HAJIRA BEGUM" [level=3] [ref=e877]
+                - text: OPTIMA RESTORE
+                - paragraph [ref=e878]: February 2024
+                - paragraph [ref=e879]: HYDERABAD
+            - generic [ref=e880]: HDFC ERGO team has done a fabulous job in helping me find the right coverage at a competitive price, even during renewals I got immense help from the team to adjust my premiums for a wider cover.
+          - generic [ref=e882]:
+            - img "quote" [ref=e884]
+            - generic [ref=e885]:
+              - img "MOHIT VERMA" [ref=e886]
+              - generic [ref=e887]:
+                - heading "MOHIT VERMA" [level=3] [ref=e888]
+                - text: PRIVATE CAR POLICY
+                - paragraph [ref=e889]: May 2024
+                - paragraph [ref=e890]: GHAZIABAD
+            - generic [ref=e891]: I have chosen HDFC ERGO first time for my four-wheeler and I am glad to say that they provide really good services. The self inspection option is really good for saving valuable time of the customer. I thanks HDFC ERGO team for always providing good customer experience.
+          - generic [ref=e893]:
+            - img "quote" [ref=e895]
+            - generic [ref=e896]:
+              - img "BOBBY KOLATHU JOSEPH" [ref=e897]
+              - generic [ref=e898]:
+                - heading "BOBBY KOLATHU JOSEPH" [level=3] [ref=e899]
+                - text: PRIVATE CAR POLICY
+                - paragraph [ref=e900]: April 2024
+                - paragraph [ref=e901]: PALAKKAD
+            - generic [ref=e902]: Your customer care executive was extremely helpful. I am happy with the way my concern was addressed. I was sent a link to do the correction online, which made my work very easy. I am quite amazed with HDFC ERGO services.
+          - generic [ref=e904]:
+            - img "quote" [ref=e906]
+            - generic [ref=e907]:
+              - img "Shyamla Nath" [ref=e908]
+              - generic [ref=e909]:
+                - heading "SHYAMLA NATH" [level=3] [ref=e910]
+                - text: RETAIL TRAVEL INSURANCE
+                - paragraph [ref=e911]: February 2024
+                - paragraph [ref=e912]: MUMBAI
+            - generic [ref=e913]: I must say, the claim process was incredibly smooth, with prompt communications with the customer service.
+          - generic [ref=e915]:
+            - img "quote" [ref=e917]
+            - generic [ref=e918]:
+              - img "SAMIR RANADE" [ref=e919]
+              - generic [ref=e920]:
+                - heading "SAMIR RANADE" [level=3] [ref=e921]
+                - text: "MY: OPTIMA SECURE"
+                - paragraph [ref=e922]: February 2024
+                - paragraph [ref=e923]: THANE
+            - generic [ref=e924]: Unlike other companies, HDFC ERGO never came up with hidden rules during claim settlement. I have had the worst experiences in my past with other companies. Kudos to this transparency and honesty.
+          - generic [ref=e926]:
+            - img "quote" [ref=e928]
+            - generic [ref=e929]:
+              - img "AKASH SETHI" [ref=e930]
+              - generic [ref=e931]:
+                - heading "AKASH SETHI" [level=3] [ref=e932]
+                - text: HDFC ERGO - BHARAT GRIHA RAKSHA PLUS - LONG TERM
+                - paragraph [ref=e933]: March 2024
+                - paragraph [ref=e934]: HISAR
+            - generic [ref=e935]: I am very happy and satisfied with your services. Keep up the good work.
+          - generic [ref=e937]:
+            - img "quote" [ref=e939]
+            - generic [ref=e940]:
+              - img "KAMLESH KUMAR SONI" [ref=e941]
+              - generic [ref=e942]:
+                - heading "KAMLESH KUMAR SONI" [level=3] [ref=e943]
+                - text: TWO WHEELER PACKAGE POLICY BUNDLED
+                - paragraph [ref=e944]: February 2024
+                - paragraph [ref=e945]: SEONI
+            - generic [ref=e946]: I recently registered the claim at HDFC ERGO. The turnaround time for the claim settlement was just 3-4 working days. I am happy with the prices and the premium rates that HDFC ERGO offers. I appreciate your team's support and assistance.
+          - generic [ref=e948]:
+            - img "quote" [ref=e950]
+            - generic [ref=e951]:
+              - img "OMKARSING DHAVLIYA" [ref=e952]
+              - generic [ref=e953]:
+                - heading "OMKARSING DHAVLIYA" [level=3] [ref=e954]
+                - text: PRIVATE CAR PACKAGE POLICY BUNDLED
+                - paragraph [ref=e955]: February 2024
+                - paragraph [ref=e956]: JALNA
+            - generic [ref=e957]: Your customer care team resolved the query promptly and could help me register my claim seamlessly. It just took a few minutes to register the claim, and it was seamless.
+          - generic [ref=e959]:
+            - img "quote" [ref=e961]
+            - generic [ref=e962]:
+              - img "SHAINAZ ABDUL SHAIKH" [ref=e963]
+              - generic [ref=e964]:
+                - heading "SHAINAZ ABDUL SHAIKH" [level=3] [ref=e965]
+                - text: OPTIMA RESTORE
+                - paragraph [ref=e966]: February 2024
+                - paragraph [ref=e967]: MUMBAI
+            - generic [ref=e968]: So far so good! I would like to especially mention the way you handled the e-KYC matter and changing DoB issue online, it was commendable. Please keep it up!!!
+          - generic [ref=e970]:
+            - img "quote" [ref=e972]
+            - generic [ref=e973]:
+              - img "RAKESH KANTILAL PATEL" [ref=e974]
+              - generic [ref=e975]:
+                - heading "RAKESH KANTILAL PATEL" [level=3] [ref=e976]
+                - text: "MY: OPTIMA SECURE"
+                - paragraph [ref=e977]: February 2024
+                - paragraph [ref=e978]: AMRITSAR
+            - generic [ref=e979]: This feedback is in reference to my Conversation REf No 81299653 with Mr Kishore. We were stressed as we had got an approval of only 5 Lacs vs the Hospital Estimate of 8 Lacs, Kishore helped us during a tough time to upgrade our policy and get the required coverage.Thank you Kishore for helping us in our testing times.
+          - generic [ref=e981]:
+            - img "quote" [ref=e983]
+            - generic [ref=e984]:
+              - img "MANISH JOLLY" [ref=e985]
+              - generic [ref=e986]:
+                - heading "MANISH JOLLY" [level=3] [ref=e987]
+                - text: PRIVATE CAR COMPREHENSIVE POLICY
+                - paragraph [ref=e988]: February 2024
+                - paragraph [ref=e989]: GURGAON
+            - generic [ref=e990]: I got a prompt solution for my issue. Your team provides quick service, and I will recommend it to my friends.
+          - generic [ref=e992]:
+            - img "quote" [ref=e994]
+            - generic [ref=e995]:
+              - img "TUMULURI RAVI KUMAR" [ref=e996]
+              - generic [ref=e997]:
+                - heading "TUMULURI RAVI KUMAR" [level=3] [ref=e998]
+                - text: PRIVATE CAR COMPREHENSIVE POLICY
+                - paragraph [ref=e999]: May 2024
+                - paragraph [ref=e1000]: BENGALURU
+            - generic [ref=e1001]: HDFC ERGO provides doorstep services and are very excellent at their work. Whenever I have approached your team, they have provided quick solution to my query.
+          - generic [ref=e1003]:
+            - img "quote" [ref=e1005]
+            - generic [ref=e1006]:
+              - img "DEVENDRA SINGH" [ref=e1007]
+              - generic [ref=e1008]:
+                - heading "DEVENDRA SINGH" [level=3] [ref=e1009]
+                - text: OPTIMA RESTORE
+                - paragraph [ref=e1010]: February 2024
+                - paragraph [ref=e1011]: BULANDSHAHR
+            - generic [ref=e1012]: I am happy and thankful for your support and services extended to me, however, I think your reimbursement process should be a bit swift in settling the claims for both pre and post-hospitalisation through telephonic discussions.
+          - generic [ref=e1014]:
+            - img "quote" [ref=e1016]
+            - generic [ref=e1017]:
+              - img "BELINDA J MATHIAS" [ref=e1018]
+              - generic [ref=e1019]:
+                - heading "BELINDA J MATHIAS" [level=3] [ref=e1020]
+                - text: PRIVATE CAR COMPREHENSIVE POLICY
+                - paragraph [ref=e1021]: February 2024
+                - paragraph [ref=e1022]: NORTH GOA
+            - generic [ref=e1023]: HDFC ERGO provides excellent services. Your customer care executives are prompt, quick and systematic in delivering services. Need not improve your services. They are up to the mark.
+          - generic [ref=e1025]:
+            - img "quote" [ref=e1027]
+            - generic [ref=e1028]:
+              - img "NAWAZ SHAIKH" [ref=e1029]
+              - generic [ref=e1030]:
+                - heading "NAWAZ SHAIKH" [level=3] [ref=e1031]
+                - text: HEALTH SURAKSHA FAMILY POLICY
+                - paragraph [ref=e1032]: February 2024
+                - paragraph [ref=e1033]: LATUR
+            - generic [ref=e1034]: I think HDFC ERGO provides the best services to the clients whether it is the easy claim process, call centre services or online submission of documents, every process is made smooth and easy for clients to avoid any hiccups in the journey.
+          - generic [ref=e1036]:
+            - img "quote" [ref=e1038]
+            - generic [ref=e1039]:
+              - img "CHHAYADEVI PARDESHI" [ref=e1040]
+              - generic [ref=e1041]:
+                - heading "CHHAYADEVI PARDESHI" [level=3] [ref=e1042]
+                - text: MY HEALTH KOTI SURAKSHA
+                - paragraph [ref=e1043]: February 2024
+                - paragraph [ref=e1044]: THANE
+            - generic [ref=e1045]: I have only words of appreciation for you. Please keep up the good work and try to reach more people with variety in your plans, so as to suit their needs and help them insure themselves.
+          - generic [ref=e1047]:
+            - img "quote" [ref=e1049]
+            - generic [ref=e1050]:
+              - img "CHANDRASHEKHARA" [ref=e1051]
+              - generic [ref=e1052]:
+                - heading "CHANDRASHEKHARA" [level=3] [ref=e1053]
+                - text: PRIVATE CAR PACKAGE POLICY BUNDLED
+                - paragraph [ref=e1054]: February 2024
+                - paragraph [ref=e1055]: UDUPI
+            - generic [ref=e1056]: I thank the HDFC ERGO claim team for their valuable support and appreciate the excellent support extended by the surveyor.
+          - generic [ref=e1058]:
+            - img "quote" [ref=e1060]
+            - generic [ref=e1061]:
+              - img "DNYANESHWAR GHODKE" [ref=e1062]
+              - generic [ref=e1063]:
+                - heading "DNYANESHWAR GHODKE" [level=3] [ref=e1064]
+                - text: HOME CREDIT ASSURE / HOME SURAKSHA PLUS
+                - paragraph [ref=e1065]: March 2024
+                - paragraph [ref=e1066]: MUMBAI
+            - generic [ref=e1067]: I am very happy and satisfied to receive prompt services and guidance from my relationship manager. He helped me to understand the terms and conditions of the PM AWAS Yojana better & helped me take an informed decision about my purchase.
+          - generic [ref=e1069]:
+            - img "quote" [ref=e1071]
+            - generic [ref=e1072]:
+              - img "Soumi Dasgupta" [ref=e1073]
+              - generic [ref=e1074]:
+                - heading "SOUMI DASGUPTA" [level=3] [ref=e1075]
+                - text: RETAIL TRAVEL INSURANCE
+                - paragraph [ref=e1076]: November 2023
+                - paragraph [ref=e1077]: BENGALURU
+            - generic [ref=e1078]: I want to express my gratitude for the exceptional support provided by the claim team. I truly appreciate HDFC ERGO's swift settlement process.
+        - img "next" [ref=e1080] [cursor=pointer]
+        - img "previous" [ref=e1082] [cursor=pointer]
+    - generic [ref=e1084]:
+      - heading "Company Videos" [level=2] [ref=e1086]
+      - generic [ref=e1088]:
+        - img "Click to load video 0" [ref=e1093]
+        - list [ref=e1095]:
+          - listitem [ref=e1096] [cursor=pointer]:
+            - img "golden-years-with-optima" [ref=e1099]
+            - paragraph [ref=e1101]: Experiencing peace of mind in my golden years with Optima secure.
+          - listitem [ref=e1102] [cursor=pointer]:
+            - img "unveiling-optima-secure-benefits" [ref=e1105]
+            - paragraph [ref=e1107]: Know how Optima secure's Benefits helped in making our family secure!
+          - listitem [ref=e1108] [cursor=pointer]:
+            - img "4x-coverage" [ref=e1111]
+            - paragraph [ref=e1113]: "Optima secure: 4X coverage you need to know about!"
+          - listitem [ref=e1114] [cursor=pointer]:
+            - img "coverage-with-optima-secure" [ref=e1117]
+            - paragraph [ref=e1119]: Level up your Health coverage with Optima Secure!
+          - listitem [ref=e1120] [cursor=pointer]:
+            - img "Shubh Diwali, Surakshit Diwali" [ref=e1123]
+            - paragraph [ref=e1125]: Shubh Diwali, Surakshit Diwali
+          - listitem [ref=e1126] [cursor=pointer]:
+            - img "Azaadi Abhi Bhi Baki Hai!" [ref=e1129]
+            - paragraph [ref=e1131]: Azaadi Abhi Bhi Baki Hai!
+          - listitem [ref=e1132] [cursor=pointer]:
+            - img "Optima Secure" [ref=e1135]
+            - paragraph [ref=e1137]: Everything you need to know about 'Optima Secure'!
+          - listitem [ref=e1138] [cursor=pointer]:
+            - img "video" [ref=e1141]
+            - paragraph [ref=e1143]: HDFC ERGO Self-Inspection Application
+          - listitem [ref=e1144] [cursor=pointer]:
+            - img "video" [ref=e1147]
+            - paragraph [ref=e1149]: All You need to know about HDFC ERGO Motor Insurance!
+          - listitem [ref=e1150] [cursor=pointer]:
+            - img "video" [ref=e1153]
+            - paragraph [ref=e1155]: Cyber Sachet Insurance - Reputation Loss
+          - listitem [ref=e1156] [cursor=pointer]:
+            - img "video" [ref=e1159]
+            - paragraph [ref=e1161]: Know Your Policy
+          - listitem [ref=e1162] [cursor=pointer]:
+            - img "Policy Copy" [ref=e1165]
+            - paragraph [ref=e1167]: How to Get Your Policy Copy
+          - listitem [ref=e1168] [cursor=pointer]:
+            - img "Certificate" [ref=e1171]
+            - paragraph [ref=e1173]: How to Get Your Tax Certificate
+          - listitem [ref=e1174] [cursor=pointer]:
+            - img "Register Claim" [ref=e1177]
+            - paragraph [ref=e1179]: How to Register for Claim
+          - listitem [ref=e1180] [cursor=pointer]:
+            - img "Optima new Covers" [ref=e1183]
+            - paragraph [ref=e1185]: Optima Secure With New Add-On Covers
+          - listitem [ref=e1186] [cursor=pointer]:
+            - img "optima secure global" [ref=e1189]
+            - paragraph [ref=e1191]: "my: Optima Secure Global Plans"
+          - listitem [ref=e1192] [cursor=pointer]:
+            - img "travel Explorer" [ref=e1195]
+            - paragraph [ref=e1197]: HDFC ERGO Explorer
+          - listitem [ref=e1198] [cursor=pointer]:
+            - img "optima being" [ref=e1201]
+            - paragraph [ref=e1203]: Optima Well-being
+          - listitem [ref=e1204] [cursor=pointer]:
+            - img "cashless approval" [ref=e1207]
+            - paragraph [ref=e1209]: Early discharge cashless approval
+          - listitem [ref=e1210] [cursor=pointer]:
+            - img "chronic diseases" [ref=e1213]
+            - paragraph [ref=e1215]: Cashless approval for chronic diseases
+    - generic [ref=e1217]:
+      - heading "Our Latest Blogs" [level=2] [ref=e1219]
+      - generic [ref=e1220]:
+        - list [ref=e1221]:
+          - listitem [ref=e1222]:
+            - link "Health" [ref=e1223] [cursor=pointer]:
+              - /url: "#BlogsHealth"
+          - listitem [ref=e1224]:
+            - link "Car" [ref=e1225] [cursor=pointer]:
+              - /url: "#BlogsCar"
+          - listitem [ref=e1226]:
+            - link "Bike" [ref=e1227] [cursor=pointer]:
+              - /url: "#BlogsBike"
+          - listitem [ref=e1228]:
+            - link "Travel" [ref=e1229] [cursor=pointer]:
+              - /url: "#BlogsTravel"
+          - listitem [ref=e1230]:
+            - link "Home" [ref=e1231] [cursor=pointer]:
+              - /url: "#BlogsHome"
+          - listitem [ref=e1232]:
+            - link "Others" [ref=e1233] [cursor=pointer]:
+              - /url: "#BlogsAll"
+        - generic [ref=e1236]:
+          - generic [ref=e1238]:
+            - generic [ref=e1240]:
+              - img "What’s Covered Under Preventive Health Check-ups?" [ref=e1242]
+              - generic [ref=e1243]:
+                - heading "What’s Covered Under Preventive Health Check-ups?" [level=3] [ref=e1244]
+                - link "READ MORE" [ref=e1245] [cursor=pointer]:
+                  - /url: /blogs/health-insurance/what-s-covered-under-preventive-health-check-ups
+            - generic [ref=e1247]:
+              - img "Why Is Diabetes Considered A Lifestyle Disease?" [ref=e1249]
+              - generic [ref=e1250]:
+                - heading "Why Is Diabetes Considered A Lifestyle Disease?" [level=3] [ref=e1251]
+                - link "READ MORE" [ref=e1252] [cursor=pointer]:
+                  - /url: /blogs/health-insurance/diabetes-lifestyle-disease
+            - generic [ref=e1254]:
+              - img "Should You Get Critical Illness Cover If You Have Diabetes?" [ref=e1256]
+              - generic [ref=e1257]:
+                - heading "Should You Get Critical Illness Cover If You Have Diabetes?" [level=3] [ref=e1258]
+                - link "READ MORE" [ref=e1259] [cursor=pointer]:
+                  - /url: /blogs/health-insurance/critical-illness-cover-with-diabetes
+            - generic [ref=e1261]:
+              - img "Should You Choose a Multi-Year Health Insurance Plan for Your Parents?" [ref=e1263]
+              - generic [ref=e1264]:
+                - heading "Should You Choose a Multi-Year Health Insurance Plan for Your Parents?" [level=3] [ref=e1265]
+                - link "READ MORE" [ref=e1266] [cursor=pointer]:
+                  - /url: /blogs/health-insurance/multi-year-health-insurance-policy-for-parents
+          - img "next" [ref=e1268] [cursor=pointer]
+          - img "previous" [ref=e1270] [cursor=pointer]
+          - link "VIEW MORE" [ref=e1271] [cursor=pointer]:
+            - /url: /blog/health-insurance
+    - generic [ref=e1272]:
+      - heading "Reach Out To Us We’re Here For You" [level=2] [ref=e1274]
+      - generic [ref=e1276]:
+        - generic [ref=e1278]:
+          - link "email-policy Email / Download Policy Copy" [ref=e1280] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/EmailPolicyCopy/
+            - generic [ref=e1281]:
+              - img "email-policy" [ref=e1282]
+              - text: Email / Download
+              - text: Policy Copy
+          - link "cliam-register Claim Registration" [ref=e1284] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/ClaimRegistration/
+            - generic [ref=e1285]:
+              - img "cliam-register" [ref=e1286]
+              - text: Claim
+              - text: Registration
+          - link "track-claim Track Claim" [ref=e1288] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/ClaimStatus/
+            - generic [ref=e1289]:
+              - img "track-claim" [ref=e1290]
+              - text: Track
+              - text: Claim
+          - link "80d-tax 80D Tax Certificate" [ref=e1292] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/authentication/80DTaxCertificateForHealthInsurance/
+            - generic [ref=e1293]:
+              - img "80d-tax" [ref=e1294]
+              - text: 80D Tax
+              - text: Certificate
+          - link "chat-with-us Chat With Us" [ref=e1296] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e1297]:
+              - img "chat-with-us" [ref=e1298]
+              - text: Chat
+              - text: With Us
+          - link "update-contact Update Contact Details" [ref=e1300] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/UpdateContactDetails/
+            - generic [ref=e1301]:
+              - img "update-contact" [ref=e1302]
+              - text: Update
+              - text: Contact Details
+          - link "more More Options" [ref=e1304] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e1305]:
+              - img "more" [ref=e1306]
+              - text: More
+              - text: Options
+        - img "next" [ref=e1308] [cursor=pointer]
+        - img "previous" [ref=e1310] [cursor=pointer]
+    - generic [ref=e1311]:
+      - heading "Awards & Recognition" [level=2] [ref=e1313]
+      - generic [ref=e1315]:
+        - generic [ref=e1317]:
+          - generic [ref=e1318]:
+            - generic [ref=e1321]: Gold Award for Social Media App (Innovative)- 2024
+            - generic [ref=e1324]: Best Customer Retention Initiative of the Year in Insurance- 2024
+          - generic [ref=e1325]:
+            - generic [ref=e1328]: Best General Insurance Company -2024
+            - generic [ref=e1331]: Most Innovative Mobile App -2024
+          - generic [ref=e1332]:
+            - generic [ref=e1335]: Best General Insurance Company Of The Year- 2024
+            - generic [ref=e1338]: Best General Insurance Company & Best Health Insurance Company- 2023
+          - generic [ref=e1339]:
+            - generic [ref=e1342]: Smart Insurer, Swift & Prompt Insurer- 2023
+            - generic [ref=e1345]: BFSI Leadership Awards 2022
+          - generic [ref=e1346]:
+            - generic [ref=e1349]: ETBFSI Excellence Awards 2021
+            - generic [ref=e1352]: FICCI Insurance Industry Awards September 2021
+          - generic [ref=e1353]:
+            - generic [ref=e1356]: ICAI Awards 2015-16
+            - generic [ref=e1359]: SKOCH Order-of-Merit
+          - generic [ref=e1360]:
+            - generic [ref=e1363]: Best Customer Experience Award of the Year (Financial Sector)
+            - generic [ref=e1366]: ICAI Awards 2014-15
+          - generic [ref=e1367]:
+            - generic [ref=e1370]: CMS Outstanding Affiliate World-Class Service Award 2015
+            - generic [ref=e1373]: iAAA rating
+          - generic [ref=e1374]:
+            - generic [ref=e1377]: ISO Certification
+            - generic [ref=e1380]: Best Insurance Company in Private Sector - General 2014
+          - generic [ref=e1381]:
+            - generic [ref=e1384]: Best General Insurance Company in India 2014
+            - generic [ref=e1387]: Gold Shield ICAI Awards 2012-13
+          - generic [ref=e1391]: Best General Insurance Company in India 2013
+        - img "next" [ref=e1393] [cursor=pointer]
+        - img "previous" [ref=e1395] [cursor=pointer]
+  - contentinfo [ref=e1396]:
+    - contentinfo [ref=e1398]:
+      - generic [ref=e1401]:
+        - generic [ref=e1402]:
+          - heading "About Us" [level=5] [ref=e1403]
+          - list [ref=e1404]:
+            - listitem [ref=e1405]:
+              - link "Board Of Directors" [ref=e1406] [cursor=pointer]:
+                - /url: /about-us/about-company#my-slk
+            - listitem [ref=e1407]:
+              - link "About Company" [ref=e1408] [cursor=pointer]:
+                - /url: /about-us/about-company
+            - listitem [ref=e1409]:
+              - link "Investor" [ref=e1410] [cursor=pointer]:
+                - /url: /about-us/investors
+            - listitem [ref=e1411]:
+              - link "CSR" [ref=e1412] [cursor=pointer]:
+                - /url: /corporate-social-responsibility
+            - listitem [ref=e1413]:
+              - link "Media Center" [ref=e1414] [cursor=pointer]:
+                - /url: /media-center/hdfcergo-press-releases
+            - listitem [ref=e1415]:
+              - link "Career" [ref=e1416] [cursor=pointer]:
+                - /url: /career/career-path
+            - listitem [ref=e1417]:
+              - link "Agent Registration" [ref=e1418] [cursor=pointer]:
+                - /url: /agents/application-form
+            - listitem [ref=e1419]:
+              - link "Public Disclosures" [ref=e1420] [cursor=pointer]:
+                - /url: /about-us/financial/public-disclosures
+        - generic [ref=e1421]:
+          - heading "Legal" [level=5] [ref=e1422]
+          - list [ref=e1423]:
+            - listitem [ref=e1424]:
+              - link "Stewardship Code" [ref=e1425] [cursor=pointer]:
+                - /url: /docs/default-source/stewardship-code/stewardship-code-version-1-3.pdf
+            - listitem [ref=e1426]:
+              - link "Disclosures on Stewardship Code" [ref=e1427] [cursor=pointer]:
+                - /url: /docs/default-source/stewardship-code/disclosures-under-stewardship-code.pdf
+            - listitem [ref=e1428]:
+              - link "Terms and Conditions" [ref=e1429] [cursor=pointer]:
+                - /url: /terms-conditions/terms
+            - listitem [ref=e1430]:
+              - link "Disclaimer and Privacy Policy" [ref=e1431] [cursor=pointer]:
+                - /url: /disclaimer-and-privacy-policy/dpp
+        - generic [ref=e1432]:
+          - heading "Resources" [level=5] [ref=e1433]
+          - list [ref=e1434]:
+            - listitem [ref=e1435]:
+              - link "Claim Intimation/Process" [ref=e1436] [cursor=pointer]:
+                - /url: /claim
+            - listitem [ref=e1437]:
+              - link "Download Section" [ref=e1438] [cursor=pointer]:
+                - /url: /download/brochure
+            - listitem [ref=e1439]:
+              - link "Self-Help" [ref=e1440] [cursor=pointer]:
+                - /url: https://selfhelp.hdfcergo.com/SelfHelp/CustomerSupportMenu
+            - listitem [ref=e1441]:
+              - link "Workshop Portal" [ref=e1442] [cursor=pointer]:
+                - /url: https://mobility.hdfcergo.com/Nipms/webforms/ipo/Login.aspx
+            - listitem [ref=e1443]:
+              - link "GST Provisional IDs" [ref=e1444] [cursor=pointer]:
+                - /url: /docs/default-source/policies/hdfc-ergo-gst-provisional-id.pdf
+            - listitem [ref=e1445]:
+              - link "Policy of Protection of Interests of Policyholders" [ref=e1446] [cursor=pointer]:
+                - /url: /docs/default-source/policies/pphi-policy.pdf
+            - listitem [ref=e1447]:
+              - link "Unclaimed Amount of Policy Holders" [ref=e1448] [cursor=pointer]:
+                - /url: /claim/trackclaim_refund_payment_status
+            - listitem [ref=e1449]:
+              - link "Agent Portal" [ref=e1450] [cursor=pointer]:
+                - /url: https://agent.hdfcergo.com
+        - generic [ref=e1451]:
+          - heading "Stay Connected" [level=5] [ref=e1452]
+          - list [ref=e1453]:
+            - listitem [ref=e1454]:
+              - link "Contact Us" [ref=e1455] [cursor=pointer]:
+                - /url: /customer-voice/customer-care
+            - listitem [ref=e1456]:
+              - link "Blogs" [ref=e1457] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e1458]:
+              - link "Grievance Redressal" [ref=e1459] [cursor=pointer]:
+                - /url: /customer-voice/grievances
+            - listitem [ref=e1460]:
+              - link "News" [ref=e1461] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e1462]:
+              - link "facebook" [ref=e1463] [cursor=pointer]:
+                - /url: https://www.facebook.com/HDFCERGO
+                - generic [ref=e1464]: 
+              - link "twitter" [ref=e1465] [cursor=pointer]:
+                - /url: https://twitter.com/HDFCERGOGIC
+                - img "twitter-logo" [ref=e1466]
+              - link "instagram" [ref=e1467] [cursor=pointer]:
+                - /url: https://www.instagram.com/hdfcergogi/
+                - img "instagram-logo" [ref=e1468]
+    - generic [ref=e1469]:
+      - generic [ref=e1472]:
+        - paragraph [ref=e1474]:
+          - link "Motor Insurance" [ref=e1475] [cursor=pointer]:
+            - /url: /motor-insurance
+          - text: ":"
+          - link "Car Insurance" [ref=e1476] [cursor=pointer]:
+            - /url: /car-insurance
+          - text: "|"
+          - link "Second Hand Car Insurance" [ref=e1477] [cursor=pointer]:
+            - /url: https://www.hdfcergo.com/car-insurance/second-hand-car-insurance
+          - text: "|"
+          - link "Comprehensive Car Insurance" [ref=e1478] [cursor=pointer]:
+            - /url: /car-insurance/comprehensive-car-insurance
+          - text: "|"
+          - link "Third Party Car Insurance" [ref=e1479] [cursor=pointer]:
+            - /url: /car-insurance/third-party-insurance
+          - text: "|"
+          - link "Car Insurance Calculator" [ref=e1480] [cursor=pointer]:
+            - /url: /car-insurance/car-insurance-premium-calculator
+          - text: "|"
+          - link "Compare Car Insurance" [ref=e1481] [cursor=pointer]:
+            - /url: /car-insurance/compare-plans
+          - text: "|"
+          - link "Zero Depreciation Car Insurance" [ref=e1482] [cursor=pointer]:
+            - /url: /car-insurance/zero-depreciation-car-insurance
+          - text: "|"
+          - link "Renew Expired Car Insurance" [ref=e1483] [cursor=pointer]:
+            - /url: /car-insurance/renew-expired-car-insurance
+          - text: "|"
+          - link "No Claim Bonus" [ref=e1484] [cursor=pointer]:
+            - /url: /car-insurance/no-claim-bonus
+          - text: "|"
+          - link "Standalone OD Car Insurance" [ref=e1485] [cursor=pointer]:
+            - /url: /car-insurance/standalone-own-damage-car-insurance
+          - text: "|"
+          - link "Return to Invoice" [ref=e1486] [cursor=pointer]:
+            - /url: /car-insurance/return-to-invoice-cover
+          - text: "|"
+          - link "Insured Declared Value" [ref=e1487] [cursor=pointer]:
+            - /url: /car-insurance/insured-declared-value-idv
+          - text: "|"
+          - link "Two Wheeler Insurance" [ref=e1488] [cursor=pointer]:
+            - /url: /two-wheeler-insurance
+          - text: "|"
+          - link "Bike Insurance Calculator" [ref=e1489] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/bike-insurance-calculator
+          - text: "|"
+          - link "Comprehensive Two Wheeler Insurance" [ref=e1490] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/comprehensive-bike-insurance
+          - text: "|"
+          - link "Third Party Two Wheeler Insurance" [ref=e1491] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/third-party-bike-insurance
+          - text: "|"
+          - link "Compare Two Wheeler Insurance" [ref=e1492] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/compare-plans
+          - text: "|"
+          - link "Standalone OD Bike Insurance" [ref=e1493] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/own-damage-bike-cover
+          - text: "|"
+          - link "Vehicle Insurance" [ref=e1494] [cursor=pointer]:
+            - /url: /motor-insurance/vehicle-insurance
+          - text: "|"
+          - link "Commercial Vehicle Insurance" [ref=e1495] [cursor=pointer]:
+            - /url: /commercial-vehicle-insurance
+          - text: "|"
+          - link "Multi Year Two Wheeler Insurance" [ref=e1496] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/multi-year-two-wheeler-insurance
+          - text: "|"
+          - link "Track Break-In Status" [ref=e1497] [cursor=pointer]:
+            - /url: https://www.hdfcergo.com/OnlineInsurance/motoronline/Integration/trackinspectionstatus
+          - text: "|"
+          - link "Pay as You Drive" [ref=e1498] [cursor=pointer]:
+            - /url: /car-insurance/pay-as-you-drive
+          - text: "|"
+          - link "Engine Protection Cover" [ref=e1499] [cursor=pointer]:
+            - /url: /car-insurance/engine-protection-cover
+          - text: "|"
+          - link "Zero Depreciation Two Wheeler Insurance" [ref=e1500] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/zero-depreciation-bike-insurance
+          - text: "|"
+          - link "Emergency Roadside Assistance Two Wheeler Insurance" [ref=e1501] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/emergency-assistance-cover
+          - text: "|"
+          - link "IDV Bike Insurance" [ref=e1502] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/insured-declared-value-idv
+          - text: "|"
+          - link "Engine Protection Cover Two Wheeler Insurance" [ref=e1503] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/engine-protection-cover
+          - text: "|"
+          - link "Scooter Insurance" [ref=e1504] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/scooter-insurance
+          - text: "|"
+          - link "NCB in Bike Insurance" [ref=e1505] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/no-claim-bonus
+          - text: "|"
+          - link "RTI in Bike Insurance" [ref=e1506] [cursor=pointer]:
+            - /url: /two-wheeler-insurance/return-to-invoice-cover
+        - paragraph [ref=e1508]:
+          - link "Health Insurance" [ref=e1509] [cursor=pointer]:
+            - /url: /health-insurance
+          - text: ":"
+          - link "Individual Health Insurance" [ref=e1510] [cursor=pointer]:
+            - /url: /health-insurance/individual-health-insurance
+          - text: "|"
+          - link "Family Health Insurance" [ref=e1511] [cursor=pointer]:
+            - /url: /health-insurance/family-health-insurance
+          - text: "|"
+          - link "Parents Health Insurance" [ref=e1512] [cursor=pointer]:
+            - /url: /health-insurance/parents-health-insurance
+          - text: "|"
+          - link "Senior Citizen Health Insurance" [ref=e1513] [cursor=pointer]:
+            - /url: /health-insurance/senior-citizen-health-insurance
+          - text: "|"
+          - link "Health Insurance Renewal" [ref=e1514] [cursor=pointer]:
+            - /url: /renew-hdfc-ergo-policy
+          - text: "|"
+          - link "Cashless Health Insurance" [ref=e1515] [cursor=pointer]:
+            - /url: /health-insurance/cashless-health-insurance
+          - text: "|"
+          - link "Health Insurance Premium Calculator" [ref=e1516] [cursor=pointer]:
+            - /url: /health-insurance/health-insurance-premium-calculator
+          - text: "|"
+          - link "Personal Accident" [ref=e1517] [cursor=pointer]:
+            - /url: /health-insurance/personal-accident-insurance-policy
+          - text: "|"
+          - link "Medisure Classic/Medisure Super top up pre policy checkup status" [ref=e1518] [cursor=pointer]:
+            - /url: https://www.hdfcergo.com/OnlineProducts/medisureonline/searchquote.aspx
+          - text: "|"
+          - link "my:health Women Suraksha Critical Illness Comprehensive Plan" [ref=e1519] [cursor=pointer]:
+            - /url: /health-insurance/women-suraksha-health-insurance/women-critical-illness-comprehensive-plan
+          - text: "|"
+          - link "my:health Women Suraksha CI Essential Plan" [ref=e1520] [cursor=pointer]:
+            - /url: /health-insurance/women-suraksha-health-insurance/women-essential-ci-plan
+          - text: "|"
+          - link "my:health Women Suraksha Cancer Plan" [ref=e1521] [cursor=pointer]:
+            - /url: /health-insurance/women-suraksha-health-insurance/women-cancer-plan
+          - text: "|"
+          - link "my:health Women Suraksha Cancer Plus Plan" [ref=e1522] [cursor=pointer]:
+            - /url: /health-insurance/women-suraksha-health-insurance/women-suraksha-cancer-plus-plan
+          - text: "|"
+          - link "my:health Women Suraksha" [ref=e1523] [cursor=pointer]:
+            - /url: /health-insurance/women-suraksha-health-insurance
+          - text: "|"
+          - link "Arogya Sanjeevani" [ref=e1524] [cursor=pointer]:
+            - /url: /health-insurance/arogya-sanjeevani-policy
+          - text: "|"
+          - link "Health insurance Portability" [ref=e1525] [cursor=pointer]:
+            - /url: /health-insurance/portability-cover
+          - text: "|"
+          - link "iCan Health Insurance" [ref=e1526] [cursor=pointer]:
+            - /url: /health-insurance/ican-cancer-insurance-plan
+          - text: "|"
+          - link "Energy Health Insurance" [ref=e1527] [cursor=pointer]:
+            - /url: /health-insurance/energy-diabetes-insurance-plan
+          - text: "|"
+          - link "Health Wallet Insurance - Family" [ref=e1528] [cursor=pointer]:
+            - /url: /health-insurance/healthwallet-family-health-insurance-plan
+          - text: "|"
+          - link "Health Wallet Insurance - Individual" [ref=e1529] [cursor=pointer]:
+            - /url: /health-insurance/healthwallet-individual-health-insurance-plan
+          - text: "|"
+          - link "Optima Restore - Family" [ref=e1530] [cursor=pointer]:
+            - /url: /health-insurance/optima-restore-family-floater-plan
+          - text: "|"
+          - link "Optima Restore - Individual" [ref=e1531] [cursor=pointer]:
+            - /url: /health-insurance/optima-restore-individual-health-insurance-plan
+          - text: "|"
+          - link "Koti Suraksha" [ref=e1532] [cursor=pointer]:
+            - /url: /health-insurance/koti-suraksha-1-crore-health-insurance-plan
+          - text: "|"
+          - link "Saral Suraksha Bima, HDFC ERGO" [ref=e1533] [cursor=pointer]:
+            - /url: /health-insurance/saral-suraksha-bima-hdfc-ergo
+          - text: "|"
+          - link "Optima Secure" [ref=e1534] [cursor=pointer]:
+            - /url: /health-insurance/optima-secure
+          - text: "|"
+          - link "Optima Lite" [ref=e1535] [cursor=pointer]:
+            - /url: /health-insurance/optima-lite
+          - text: "|"
+          - link "Optima Secure Individual" [ref=e1536] [cursor=pointer]:
+            - /url: /health-insurance/optima-secure-individual
+          - text: "|"
+          - link "Optima Secure Global Individual" [ref=e1537] [cursor=pointer]:
+            - /url: /health-insurance/optima-secure-global-individual
+          - text: "|"
+          - link "Optima Secure Global Family" [ref=e1538] [cursor=pointer]:
+            - /url: /health-insurance/optima-secure-global-family-plan
+          - text: "|"
+          - link "Optima Super Secure Plan" [ref=e1539] [cursor=pointer]:
+            - /url: /health-insurance/optima-super-secure-plan
+          - text: "|"
+          - link "Optima Super Secure Plan Individual" [ref=e1540] [cursor=pointer]:
+            - /url: /health-insurance/optima-super-secure-plan-individual
+          - text: "|"
+          - link "my:health Medisure Super Top Up" [ref=e1541] [cursor=pointer]:
+            - /url: /health-insurance/my-health-medisure-super-top-up-insurance
+          - text: "|"
+          - link "BMI Calculator" [ref=e1542] [cursor=pointer]:
+            - /url: /health-insurance/wellness-corner/assess-your-wellness/bmi-calculator
+          - text: "|"
+          - link "EquiCover Health" [ref=e1543] [cursor=pointer]:
+            - /url: /health-insurance/equicover-health
+          - text: "|"
+          - link "Here." [ref=e1544] [cursor=pointer]:
+            - /url: /health-insurance/here-app
+        - paragraph [ref=e1546]:
+          - link "Pet Insurance" [ref=e1547] [cursor=pointer]:
+            - /url: /pet-insurance
+          - text: ":"
+          - link "Dog Insurance" [ref=e1548] [cursor=pointer]:
+            - /url: /pet-insurance/dog-insurance
+          - text: "|"
+          - link "Cat Insurance" [ref=e1549] [cursor=pointer]:
+            - /url: /pet-insurance/cat-insurance
+        - paragraph [ref=e1551]:
+          - link "Travel Insurance" [ref=e1552] [cursor=pointer]:
+            - /url: /travel-insurance
+          - text: ":"
+          - link "Travel Insurance" [ref=e1553] [cursor=pointer]:
+            - /url: /travel-insurance
+          - text: "|"
+          - link "Individual Travel Insurance" [ref=e1554] [cursor=pointer]:
+            - /url: /travel-insurance/individual-travel-insurance-policy
+          - text: "|"
+          - link "Family Travel Insurance" [ref=e1555] [cursor=pointer]:
+            - /url: /travel-insurance/family-travel-insurance-policy
+          - text: "|"
+          - link "Student Suraksha Insurance" [ref=e1556] [cursor=pointer]:
+            - /url: /travel-insurance/student-suraksha-travel-insurance-policy
+          - text: "|"
+          - link "Annual Multi-trip Insurance" [ref=e1557] [cursor=pointer]:
+            - /url: /travel-insurance/frequent-flyers-insurance
+          - text: "|"
+          - link "Travel Insurance For Senior Citizens" [ref=e1558] [cursor=pointer]:
+            - /url: /travel-insurance/travel-insurance-for-senior-citizens
+          - text: "|"
+          - link "Travel Insurance for Schengen VISA from India" [ref=e1559] [cursor=pointer]:
+            - /url: /travel-insurance/travel-insurance-for-schengen-visa-from-india
+          - text: "|"
+          - link "Travel Insurance for Australia" [ref=e1560] [cursor=pointer]:
+            - /url: /travel-insurance/australia
+          - text: "|"
+          - link "Travel Insurance for Bali" [ref=e1561] [cursor=pointer]:
+            - /url: /travel-insurance/bali
+          - text: "|"
+          - link "Travel Insurance For Canada" [ref=e1562] [cursor=pointer]:
+            - /url: /travel-insurance/canada
+          - text: "|"
+          - link "Travel Insurance for Dubai" [ref=e1563] [cursor=pointer]:
+            - /url: /travel-insurance/dubai
+          - text: "|"
+          - link "Travel Insurance for France" [ref=e1564] [cursor=pointer]:
+            - /url: /travel-insurance/france
+          - text: "|"
+          - link "Travel Insurance for Germany" [ref=e1565] [cursor=pointer]:
+            - /url: /travel-insurance/germany
+          - text: "|"
+          - link "Travel Insurance for Ireland" [ref=e1566] [cursor=pointer]:
+            - /url: /travel-insurance/ireland
+          - text: "|"
+          - link "Travel Insurance for Italy" [ref=e1567] [cursor=pointer]:
+            - /url: /travel-insurance/italy
+          - text: "|"
+          - link "Travel Insurance for Japan" [ref=e1568] [cursor=pointer]:
+            - /url: /travel-insurance/japan
+          - text: "|"
+          - link "Travel Insurance for Malaysia" [ref=e1569] [cursor=pointer]:
+            - /url: /travel-insurance/malaysia
+          - text: "|"
+          - link "Travel Insurance for Poland" [ref=e1570] [cursor=pointer]:
+            - /url: /travel-insurance/poland
+          - text: "|"
+          - link "Travel Insurance for Singapore" [ref=e1571] [cursor=pointer]:
+            - /url: /travel-insurance/singapore
+          - text: "|"
+          - link "Travel Insurance for Spain" [ref=e1572] [cursor=pointer]:
+            - /url: /travel-insurance/spain
+          - text: "|"
+          - link "Travel Insurance for Switzerland" [ref=e1573] [cursor=pointer]:
+            - /url: /travel-insurance/switzerland
+          - text: "|"
+          - link "Travel Insurance for Thailand" [ref=e1574] [cursor=pointer]:
+            - /url: /travel-insurance/thailand
+          - text: "|"
+          - link "Travel Insurance for USA" [ref=e1575] [cursor=pointer]:
+            - /url: /travel-insurance/usa
+          - text: "|"
+          - link "Travel Insurance for UAE" [ref=e1576] [cursor=pointer]:
+            - /url: /travel-insurance/uae
+          - text: "|"
+          - link "Travel Insurance for UK" [ref=e1577] [cursor=pointer]:
+            - /url: /travel-insurance/uk
+          - text: "|"
+          - link "International Travel Insurance" [ref=e1578] [cursor=pointer]:
+            - /url: /travel-insurance/international-travel-insurance
+        - paragraph [ref=e1580]:
+          - link "Home Insurance" [ref=e1581] [cursor=pointer]:
+            - /url: /home-insurance
+          - text: ":"
+          - link "Home Insurance For Tenants" [ref=e1582] [cursor=pointer]:
+            - /url: /home-insurance/tenants
+          - text: "|"
+          - link "Home Insurance For Owners" [ref=e1583] [cursor=pointer]:
+            - /url: /home-insurance/owners
+          - text: "|"
+          - link "Home Insurance for Television" [ref=e1584] [cursor=pointer]:
+            - /url: /home-insurance/tv-insurance
+          - text: "|"
+          - link "Home Insurance for Washing Machine" [ref=e1585] [cursor=pointer]:
+            - /url: /home-insurance/washing-machine-insurance
+          - text: "|"
+          - link "Home Insurance for Air Conditioner" [ref=e1586] [cursor=pointer]:
+            - /url: /home-insurance/ac-insurance
+          - text: "|"
+          - link "Home Insurance for Jewellery" [ref=e1587] [cursor=pointer]:
+            - /url: /home-insurance/jewellery-insurance
+          - text: "|"
+          - link "Home Insurance for Refrigerator" [ref=e1588] [cursor=pointer]:
+            - /url: /home-insurance/refrigerator-insurance
+          - text: "|"
+          - link "Home Insurance for Lighting" [ref=e1589] [cursor=pointer]:
+            - /url: /home-insurance/lightning-insurance
+          - text: "|"
+          - link "Home Insurance for Electronic Equipment" [ref=e1590] [cursor=pointer]:
+            - /url: /home-insurance/electronic-equipment-insurance
+          - text: "|"
+          - link "Home Insurance for Landslide" [ref=e1591] [cursor=pointer]:
+            - /url: /home-insurance/landslide-insurance
+          - text: "|"
+          - link "Home Insurance for Earthquake" [ref=e1592] [cursor=pointer]:
+            - /url: /home-insurance/earthquake-insurance
+          - text: "|"
+          - link "Building Insurance" [ref=e1593] [cursor=pointer]:
+            - /url: /home-insurance/building-insurance
+          - text: "|"
+          - link "Property Insurance" [ref=e1594] [cursor=pointer]:
+            - /url: /home-insurance/property-insurance
+          - text: "|"
+          - link "Flood Insurance" [ref=e1595] [cursor=pointer]:
+            - /url: /home-insurance/flood-insurance
+          - text: "|"
+          - link "Monsoon Insurance" [ref=e1596] [cursor=pointer]:
+            - /url: /home-insurance/home-insurance-for-monsoon
+          - text: "|"
+          - link "Home Content Insurance" [ref=e1597] [cursor=pointer]:
+            - /url: /home-insurance/home-contents-insurance
+          - text: "|"
+          - link "Theft Insurance" [ref=e1598] [cursor=pointer]:
+            - /url: /home-insurance/theft-burglary-insurance
+          - text: "|"
+          - link "Bharat Griha Raksha Policy" [ref=e1599] [cursor=pointer]:
+            - /url: /home-insurance/bharat-griha-raksha-policy
+          - text: "|"
+          - link "Home Shield Insurance" [ref=e1600] [cursor=pointer]:
+            - /url: /home-insurance/home-shield-insurance
+          - text: "|"
+          - link "Home Insurance for Condos" [ref=e1601] [cursor=pointer]:
+            - /url: /home-insurance/condo-insurance
+          - text: "|"
+          - link "Home Insurance for Villas" [ref=e1602] [cursor=pointer]:
+            - /url: /home-insurance/villa-insurance
+        - paragraph [ref=e1604]:
+          - text: "Other Insurance:"
+          - link "Cyber Sachet Insurance" [ref=e1605] [cursor=pointer]:
+            - /url: /cyber-sachet-insurance
+          - text: "|"
+          - link "Standard Fire&Special Perilis Insurance" [ref=e1606] [cursor=pointer]:
+            - /url: /commercial-insurance/property-insurance-policy/fire-special-perils-insurance-policy
+          - text: "|"
+          - link "Rural Insurance" [ref=e1607] [cursor=pointer]:
+            - /url: /commercial-insurance/rural-insurance
+          - text: "|"
+          - link "Casualty Insurance" [ref=e1608] [cursor=pointer]:
+            - /url: /commercial-insurance/casualty-insurance-policy
+          - text: "|"
+          - link "Group Insurance" [ref=e1609] [cursor=pointer]:
+            - /url: /commercial-insurance/group-insurance-policy
+          - text: "|"
+          - link "Property&Misc Insurance" [ref=e1610] [cursor=pointer]:
+            - /url: /commercial-insurance/property-insurance-policy
+          - text: "|"
+          - link "Risk Consulting Services" [ref=e1611] [cursor=pointer]:
+            - /url: /commercial-insurance/service-offerings
+          - text: "|"
+          - link "Specialty Insurance" [ref=e1612] [cursor=pointer]:
+            - /url: /commercial-insurance/specialty-insurance-policy
+          - text: "|"
+          - link "Rural Insurance" [ref=e1613] [cursor=pointer]:
+            - /url: /commercial-insurance/rural-insurance
+          - text: "|"
+          - link "Other commercial insurance" [ref=e1614] [cursor=pointer]:
+            - /url: /commercial-insurance/other-insurance
+        - paragraph [ref=e1616]:
+          - text: "Expert Profiles:"
+          - link "Deepika Mathur" [ref=e1617] [cursor=pointer]:
+            - /url: /blog/expert-profile/deepika-mathur
+          - text: "|"
+          - link "Diwaker Asthana" [ref=e1618] [cursor=pointer]:
+            - /url: /blog/expert-profile/diwaker-asthana
+          - text: "|"
+          - link "Mukesh Kumar" [ref=e1619] [cursor=pointer]:
+            - /url: /blog/expert-profile/mukesh-kumar
+          - text: "|"
+          - link "S.Gopala Krishnan" [ref=e1620] [cursor=pointer]:
+            - /url: /blog/expert-profile/s-gopala-krishnan
+        - paragraph [ref=e1622]:
+          - text: "Customer Reviews:"
+          - link "Health Insurance" [ref=e1623] [cursor=pointer]:
+            - /url: /customer-reviews/health-insurance
+          - text: "|"
+          - link "2 Wheeler Insurance" [ref=e1624] [cursor=pointer]:
+            - /url: /customer-reviews/two-wheeler-insurance-reviews
+          - text: "|"
+          - link "Private Car Insurance" [ref=e1625] [cursor=pointer]:
+            - /url: /customer-reviews/privatecar-insurance
+          - text: "|"
+          - link "Critical Illness" [ref=e1626] [cursor=pointer]:
+            - /url: /customer-reviews/critical-illness-insurance
+          - text: "|"
+          - link "Travel Insurance" [ref=e1627] [cursor=pointer]:
+            - /url: /customer-reviews/travel-insurance
+          - text: "|"
+          - link "Personal Accident" [ref=e1628] [cursor=pointer]:
+            - /url: /customer-reviews/personal-accident-insurance
+          - text: "|"
+          - link "Home Insurance" [ref=e1629] [cursor=pointer]:
+            - /url: /customer-reviews/home-insurance
+          - text: "|"
+          - link "Student Suraksha" [ref=e1630] [cursor=pointer]:
+            - /url: /customer-reviews/student-surkasha
+        - paragraph [ref=e1632]:
+          - text: "Downloads:"
+          - link "Brochure" [ref=e1633] [cursor=pointer]:
+            - /url: /download/brochure
+          - text: "|"
+          - link "Prospectus" [ref=e1634] [cursor=pointer]:
+            - /url: /download/prospectus
+          - text: "|"
+          - link "Proposal Form" [ref=e1635] [cursor=pointer]:
+            - /url: /download/proposal-form
+          - text: "|"
+          - link "Policy Wording" [ref=e1636] [cursor=pointer]:
+            - /url: /download/policy-wordings
+          - text: "|"
+          - link "Claim form" [ref=e1637] [cursor=pointer]:
+            - /url: /download/claim-form
+          - text: "|"
+          - link "KYC Form" [ref=e1638] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelpDF/DigitalClaimForms/KYC_Form_English_Ctc.aspx
+          - text: "|"
+          - link "Other Documents" [ref=e1639] [cursor=pointer]:
+            - /url: /download/others
+        - paragraph [ref=e1641]:
+          - text: "Healthcare Network :"
+          - link "Hospital Empanelment form" [ref=e1642] [cursor=pointer]:
+            - /url: https://www.hdfcergo.com/locators/hospital-empanelment
+          - text: "|"
+          - link "Product wise cashless services" [ref=e1643] [cursor=pointer]:
+            - /url: /docs/default-source/default-document-library/disclosures-on-website-response.pdf
+        - paragraph [ref=e1645]:
+          - text: "Procedure to make changes:"
+          - link "Health Insurance" [ref=e1646] [cursor=pointer]:
+            - /url: /procedure-to-make-changes/health-insurance
+          - text: "|"
+          - link "Home Insurance" [ref=e1647] [cursor=pointer]:
+            - /url: /procedure-to-make-changes/home-insurance
+          - text: "|"
+          - link "Motor Insurance" [ref=e1648] [cursor=pointer]:
+            - /url: /procedure-to-make-changes/motor-insurance
+          - text: "|"
+          - link "Personal Accident Insurance" [ref=e1649] [cursor=pointer]:
+            - /url: /procedure-to-make-changes/personal-accident-insurance
+        - paragraph [ref=e1651]:
+          - text: "Others:"
+          - link "Account aggregator" [ref=e1652] [cursor=pointer]:
+            - /url: /what-is-an-account-aggregator
+          - text: "|"
+          - link "Insurance FAQs" [ref=e1653] [cursor=pointer]:
+            - /url: /faqs
+          - text: "|"
+          - link "Glossary" [ref=e1654] [cursor=pointer]:
+            - /url: /glossary/a
+          - text: "|"
+          - link "Travel Medi Assist" [ref=e1655] [cursor=pointer]:
+            - /url: /locators/travel-medi-assist-detail
+          - text: "|"
+          - link "IRDAI Website" [ref=e1656] [cursor=pointer]:
+            - /url: https://www.irdai.gov.in/
+          - text: "|"
+          - link "Knowledge Centre" [ref=e1657] [cursor=pointer]:
+            - /url: /blog
+          - text: "|"
+          - link "Omicron" [ref=e1658] [cursor=pointer]:
+            - /url: /health-insurance/omicron-covid-19-variant
+          - text: "|"
+          - link "Repositories" [ref=e1659] [cursor=pointer]:
+            - /url: /repositories
+        - paragraph [ref=e1661]:
+          - text: "Read in Hindi:"
+          - link "Health Insurance Hindi" [ref=e1662] [cursor=pointer]:
+            - /url: /hindiml/health-insurance
+          - text: "|"
+          - link "Car Insurance Hindi" [ref=e1663] [cursor=pointer]:
+            - /url: /hindiml/car-insurance
+          - text: "|"
+          - link "Two Wheeler Insurance in Hindi" [ref=e1664] [cursor=pointer]:
+            - /url: /hindiml/two-wheeler-insurance
+          - text: "|"
+          - link "Home Insurance in Hindi" [ref=e1665] [cursor=pointer]:
+            - /url: /hindiml/home-insurance
+        - paragraph [ref=e1667]:
+          - text: "Our Promoters:"
+          - link "HDFC Bank" [ref=e1668] [cursor=pointer]:
+            - /url: https://www.hdfcbank.com/
+          - text: "|"
+          - link "ERGO" [ref=e1669] [cursor=pointer]:
+            - /url: https://www.ergo.com/
+        - paragraph [ref=e1671]:
+          - text: "Other Important links:"
+          - link "HDFC Bank" [ref=e1672] [cursor=pointer]:
+            - /url: https://www.hdfcbank.com/
+          - text: "|"
+          - link "HDFC Life" [ref=e1673] [cursor=pointer]:
+            - /url: https://www.hdfclife.com/
+          - text: "|"
+          - link "HDFC Securities" [ref=e1674] [cursor=pointer]:
+            - /url: https://www.hdfcsec.com/
+          - text: "|"
+          - link "HDFC Mutual Fund" [ref=e1675] [cursor=pointer]:
+            - /url: https://www.hdfcfund.com/
+          - text: "|"
+          - link "HDFC Sales" [ref=e1676] [cursor=pointer]:
+            - /url: https://www.hdfcsales.com/
+          - text: "|"
+          - link "HDB Financial Services" [ref=e1677] [cursor=pointer]:
+            - /url: https://www.hdbfs.com/
+          - text: "|"
+          - link "HDFC Pension" [ref=e1678] [cursor=pointer]:
+            - /url: https://www.hdfcpension.com/
+      - contentinfo [ref=e1679]:
+        - paragraph [ref=e1687]:
+          - text: "CAR INSURANCE - *The above mentioned third party premium of 1 year is for Cubic capacity < 1000 CC as on 1st June 2022 and may vary depending on the cubic capacity of the vehicle ? ˇas on 28th Feb 2025 - 12277 active Network garages *The percentage amount would be given basis the number of kilometers driven in the policy year \"¯Over-night motor repair service for minor damages made available to HDFC Ergo Policyholders, subject to extent of damage, bandwidth of the motor garages empanelled especially for the services in selected 16 cities and the requirement to appoint surveyor, etc. The Company shall be liable to settle the claim basis of the terms and conditions of the policy document for the concerned vehicle (Upto 3 panels or Rs.20,000- which ever is higher. Available across 16 cities - Mumbai, Nagpur, Pune, Surat, Vadodara, Ahmedabad, Delhi, Gurugram, Jaipur, Hyderabad, Chennai, Bangalore, Kolkata, Kanpur, Madurai, Coimbator) ^based on Public Disclosure Reports for FY24 - Settlement Ratio in FY24 for motor OD Claims - 99.8% Count of OD Claims Paid in FY24(excludes repudiation & zero) - 5,34,695 Amount of claims paid in FY24 - Rs. 1,77,919 (amount in lacs) or Rs. 17,79,19,10,664 Formula used for Settlement Ratio - (Claims Settled + Claims Repudiated + Claims Closed) / (Claims Reported) x 100 °°Additional premium will be charged for add on cover ~Minor Damage - low value 2-3 parts. Immediate claim settlemnt subject to all document fulfillement by customer. Total amount is at the discretion of the surveyor °°Additional premium will be charged for add on cover. Motor Insurance UIN: IRDAN125P0005V01200203. UIN: Motor Insurance Pricing Revision- Private Cars - IRDAN125RP0001V02201415"
+          - text: "HEALTH INSURANCE - ˇˇ15000+ healthcare providers as on February 2025. Please refer to the website www.hdfcergo.com for an updated network list. ''Subject to change as per Tax Laws in India ¯Any unutilized amount of Sum Insured rebound cannot be carried over to next policy year or renewal policy. Sum Insured rebound can be utilized for claims under Hospitalization cover only ~^The premium (excluding tax) mentioned is for platinum plan tier 2 1 adult age 36-45 years. This premium is only for health coverage sum insured available is Rs. 50 lakhs and 1 crore under the Health Section of my:health Koti Suraksha @Figure as on 31st January 2025 (includes members of the group). ^*Only if purchased from www.hdfcergo.com °°4X coverage means base Sum Insured + Plus Benefit (after 2 Policy Years) + Secure Benefit + Automatic Restore Benefit ~Subject to the condition that a single claim in a Policy Year cannot exceed the sum of Basic Sum Insured, Plus Benefit (if applicable) and Secure Benefit *Premium mentioned for my:Optima Secure plan is excluding taxes with 5% online discount for a 30-year-old individual residing in 2 Tier location for sum insured of 5 lacs *Premium mentioned my:Optima Secure plan is excluding taxes with 5% online discount for a 30-year-old individual residing in 2 Tier location for sum insured of 5 lacs #Home health care available only on cashless basis in select cities only for my: Optima Secure products \"Get 60 and 180 days pre and post hospitalization medical expenses covered ^100% claim settlement ratio - Based on claims of FY 24 (Formula - Claims Paid Plus Repudiated/CWP Divided by Claims Reported) Please refer company website - Public discloser section. ̑ ̑Restore benefit-Subject to the condition that a single claim in a Policy Year cannot exceed the sum of Basic Sum Insured Optima Secure covers in-patient hospitalization expenses even for alternate treatment methods viz. Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy UIN: my: Optima Secure - HDFHLIP25041V062425 | my: health Critical Illness- HDFHLIA22141V032122 | my:Health Hospital Cash Benefit (Add-on) - HDFHLIA21271V022021 | Unlimited Restore (Add On) HDFHLIA22188V012122 | IPA Rider – APOPAIP19004V011920 - UIN: Optima Restore HDFHLIP25012V082425 UIN: Critical Illness Insurance - HDFHLIP21464V022021 UIN: my:health Medisure Super Top Up Insurance - HDFHLIP22021V042122 UIN: my:health Koti Suraksha - HDFHLIP21131V012021."
+          - text: BIKE INSURANCE - *The above mentioned third party premium of 1 year is for Cubic capacity < 75 CC as on 1st June 2022 and may vary depending on the cubic capacity of the vehicle ^based on Public Disclosure Reports for FY24 - Settlement Ratio in FY24 for motor OD Claims - 99.8% Count of OD Claims Paid in FY24(excludes repudiation & zero) - 5,34,695 Formula used for Settlement Ratio - (Claims Settled + Claims Repudiated + Claims Closed) / (Claims Reported) x 100 °Upto 3 panels or Rs.5,000- which ever is higher (Available across Mumbai, Hyderabad & Pune only) °°Additional premium will be charged for add on cover. Liability Only Policy - Two wheeler - Annual -IRDAN125RP0002V01202122
+          - text: "TRAVEL INSURANCE - **Figure as on Jan 2024 | *The premium of Rs 31 per day without taxes for the product for an individual of age 37, travelling to Asia for 7 days opting for a sum insured of $50,000. | ^20+ Benefits included in Platinum plan variant. | Product Name: HDFC ERGO Explorer. UIN: HDFTIOP24042V022425 UIN: Travel Insurance - HDFTIOP22056V022122 UIN:Student Suraksha-Student Overseas Travel - HDFTIOP22052V022122"
+          - text: "HOME INSURANCE & OTHERS - *Sum Insured of Rs. 11,00,000 for 1 year with 25% discount (15% security discount on insured property & 10% for online Sales) **Price of Student Plan for a Sum Insured of Rs. 50,000 excluding taxes.^*Discount may vary as per coverage opted. Home shield Insurance - IRDAN125RP0001V01201718, UIN: HDFC ERGO Cyber Sachet Insurance - IRDAN125RP0026V01202122."
+          - text: "PET INSURANCE- UIN: HDFC ERGO Paws n Claws - IRDAN146RP0001V01202324"
+          - text: T&C Apply. @3.2 cr+ covers all lines of business – policyholders in motor & corporate lines, lives covered under health, PA & travel, and farmers covered crop insurance.
+          - text: ~The here app download data as on 24th, June 25.
+    - paragraph [ref=e1692]:
+      - text: "Terms and Conditions Applied. © HDFC ERGO General Insurance Company Limited. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai – 400 059. Customer Happiness Center / Policy Issuing Address: D-301, 3rd Floor, Eastern Business District (Magnet Mall), LBS Marg, Bhandup (West), Mumbai - 400 078. For Claim/Policy related queries call us at"
+      - link "022 6158 2020" [ref=e1693] [cursor=pointer]:
+        - /url: tel:022 6158 2020
+      - text: or Visit Help Section on
+      - link "www.hdfcergo.com" [ref=e1694] [cursor=pointer]:
+        - /url: https://www.hdfcergo.com
+      - text: "for policy copy/tax certificate/make changes/register & track claim. IRDAI Registration Number : 146 (Registration type: General Insurance Company). For more details on the risk factors, terms and conditions, please read the sales brochure/ prospectus before concluding the sale. HDFC Ltd. and HDFC Bank merger stands concluded, effective 1st July, 2023. HDFC ERGO General Insurance Company Limited is now a subsidiary of the Bank."
+  - generic [ref=e1697]:
+    - paragraph [ref=e1698]:
+      - text: Menu
+      - generic [ref=e1699] [cursor=pointer]: 
+      - generic [ref=e1700] [cursor=pointer]: 
+    - generic [ref=e1701]:
+      - generic [ref=e1702]:
+        - heading "Buy " [level=4] [ref=e1705]:
+          - link "Buy " [ref=e1706] [cursor=pointer]:
+            - /url: "#buy-1"
+            - text: Buy
+            - generic [ref=e1707]: 
+        - generic [ref=e1708]:
+          - heading "Explore " [level=4] [ref=e1710]:
+            - link "Explore " [ref=e1711] [cursor=pointer]:
+              - /url: "#explore-1"
+              - text: Explore
+              - generic [ref=e1712]: 
+          - text:         
+        - heading "Renew " [level=4] [ref=e1715]:
+          - link "Renew " [ref=e1716] [cursor=pointer]:
+            - /url: "#renew-1"
+            - text: Renew
+            - generic [ref=e1717]: 
+        - generic [ref=e1718]:
+          - heading "Claim " [level=4] [ref=e1720]:
+            - link "Claim " [ref=e1721] [cursor=pointer]:
+              - /url: "#claim-1"
+              - text: Claim
+              - generic [ref=e1722]: 
+          - text:    
+      - list [ref=e1723]:
+        - listitem [ref=e1724]:
+          - link "Optima LiteNEW" [ref=e1725] [cursor=pointer]:
+            - /url: /health-insurance/optima-lite
+        - listitem [ref=e1726]:
+          - link "Download Here App NEW" [ref=e1727] [cursor=pointer]:
+            - /url: /health-insurance/here-app
+        - listitem [ref=e1728]:
+          - link "Agent Registration FormNEW" [ref=e1729] [cursor=pointer]:
+            - /url: /agents/application-form
+        - listitem [ref=e1730]:
+          - link "Digital Platforms" [ref=e1731] [cursor=pointer]:
+            - /url: /digital-platforms-for-policy-servicing
+        - listitem [ref=e1732]:
+          - link "All Things EV" [ref=e1733] [cursor=pointer]:
+            - /url: https://allthingsev.io?utm_source=website&utm_medium=webmenu&utm_campaign=web_launch&utm_id=web.1
+        - listitem [ref=e1734]:
+          - link "Insurance Gyan" [ref=e1735] [cursor=pointer]:
+            - /url: /blog
+        - listitem [ref=e1736]:
+          - link "Wellness Corner NEW" [ref=e1737] [cursor=pointer]:
+            - /url: /health-insurance/wellness-corner
+        - listitem [ref=e1738]:
+          - link "Know Your Policy" [ref=e1739] [cursor=pointer]:
+            - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/KnowYourPolicy/
+        - listitem [ref=e1740]:
+          - link "Garage Network" [ref=e1741] [cursor=pointer]:
+            - /url: /locators/cashless-garages-networks
+        - listitem [ref=e1742]:
+          - link "Hospital Network" [ref=e1743] [cursor=pointer]:
+            - /url: /locators/cashless-hospitals-networks
+        - listitem [ref=e1744]:
+          - link "Preferred Hospital Network NEW" [ref=e1745] [cursor=pointer]:
+            - /url: /locators/preferred-hospital-networks
+        - listitem [ref=e1746]:
+          - link "Missing Middle Hospital Network" [ref=e1747] [cursor=pointer]:
+            - /url: /locators/missing-middle-layer-hospital-networks
+        - listitem [ref=e1748]:
+          - link "Diagnostic Centers" [ref=e1749] [cursor=pointer]:
+            - /url: /locators/dc-cashless-hospitals-networks
+        - listitem [ref=e1750]:
+          - link "Branch Locator" [ref=e1751] [cursor=pointer]:
+            - /url: /locators/branches-networks
+        - listitem [ref=e1752]:
+          - link "About us" [ref=e1753] [cursor=pointer]:
+            - /url: /about-us/about-company
+        - listitem [ref=e1754]:
+          - link "Contact Us" [ref=e1755] [cursor=pointer]:
+            - /url: /customer-voice/customer-care
+        - listitem [ref=e1756]:
+          - link "Teleclinic" [ref=e1757] [cursor=pointer]:
+            - /url: https://onelink.to/hdfcergo_app
+        - listitem [ref=e1758]:
+          - link "Workshop Portal" [ref=e1759] [cursor=pointer]:
+            - /url: https://mobility.hdfcergo.com/Nipms/webforms/IPO/Login.aspx
+        - listitem [ref=e1760]:
+          - link "Grievance Redressal" [ref=e1761] [cursor=pointer]:
+            - /url: /customer-voice/grievances
+        - listitem [ref=e1762]:
+          - link "Guide to Fraud PreventionNEW" [ref=e1763] [cursor=pointer]:
+            - /url: /do's-and-don'ts
+  - generic [ref=e1764]:
+    - paragraph [ref=e1765]:
+      - text: How can we help you?
+      - generic [ref=e1766] [cursor=pointer]: 
+      - generic [ref=e1767] [cursor=pointer]: 
+    - generic [ref=e1768]:
+      - generic [ref=e1769]:
+        - link "email Email/Download Policy Copy" [ref=e1771] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/EmailPolicyCopy/
+          - generic [ref=e1772]:
+            - img "email" [ref=e1773]
+            - generic [ref=e1774]: Email/Download Policy Copy
+        - link "Tax Certificate 80D tax certificate" [ref=e1776] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/authentication/80DTaxCertificateForHealthInsurance/
+          - generic [ref=e1777]:
+            - img "Tax Certificate" [ref=e1778]
+            - generic [ref=e1779]: 80D tax certificate
+        - link "Update details Update contact details" [ref=e1781] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/UpdateContactDetails/
+          - generic [ref=e1782]:
+            - img "Update details" [ref=e1783]
+            - generic [ref=e1784]: Update contact details
+        - link "Make changes Make changes/ endorsements" [ref=e1786] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/MakeChangeendorsement/
+          - generic [ref=e1787]:
+            - img "Make changes" [ref=e1788]
+            - generic [ref=e1789]: Make changes/ endorsements
+        - link "register claim Claim registration" [ref=e1791] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/ClaimRegistration/
+          - generic [ref=e1792]:
+            - img "register claim" [ref=e1793]
+            - generic [ref=e1794]: Claim registration
+        - link "track-claim Track claim" [ref=e1796] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/ClaimStatus/
+          - generic [ref=e1797]:
+            - img "track-claim" [ref=e1798]
+            - generic [ref=e1799]: Track claim
+        - link "transfer insurance Transfer of insurance - Motor" [ref=e1801] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/TransferofInsuranceMotorPolicySelection/
+          - generic [ref=e1802]:
+            - img "transfer insurance" [ref=e1803]
+            - generic [ref=e1804]: Transfer of insurance - Motor
+        - link "Cancel Policy Cancellation of policy" [ref=e1806] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/PolicyCancellationRequest/
+          - generic [ref=e1807]:
+            - img "Cancel Policy" [ref=e1808]
+            - generic [ref=e1809]: Cancellation of policy
+        - link "ekycprocess e-KYC Procedure" [ref=e1811] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/EKYCProcedure
+          - img "ekycprocess" [ref=e1812]
+          - generic [ref=e1813]: e-KYC Procedure
+        - link "make payment Make payments" [ref=e1815] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/MakeGenericPayment/
+          - generic [ref=e1816]:
+            - img "make payment" [ref=e1817]
+            - generic [ref=e1818]: Make payments
+        - generic [ref=e1820] [cursor=pointer]:
+          - img "Chat with us" [ref=e1821]
+          - generic [ref=e1822]: Chat with us
+        - link "pay dues Click here for more options" [ref=e1824] [cursor=pointer]:
+          - /url: https://selfhelp.hdfcergo.com/SelfHelp/
+          - generic [ref=e1825]:
+            - img "pay dues" [ref=e1826]
+            - generic [ref=e1827]: Click here for more options
+      - link "kyp Know Your Policy" [ref=e1830] [cursor=pointer]:
+        - /url: https://selfhelp.hdfcergo.com/SelfHelp/Authentication/KnowYourPolicy/
+        - generic [ref=e1831]:
+          - img "kyp" [ref=e1832]
+          - generic [ref=e1833]: Know Your Policy
+  - img "DIA Live Chat" [ref=e1834] [cursor=pointer]
+```
