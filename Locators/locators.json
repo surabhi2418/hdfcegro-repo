@@ -81,6 +81,30 @@
     "planDetails": "li.plan-details",
     "planName": "h2.plan-name",
     "planPremium": "span.text-amount"
+  },
+  "HometravelPage": {
+    "travelInsuranceLink": "% GST Travel Insurance"
+  },
+  "TravelDetailsPage": {
+    "travellerTypeLabel": "label",
+    "buyNowButton": "BUY NOW",
+    "selectTravellerText": "Select Traveller",
+    "ageInput": "#Travellers_0__TravellerAge",
+    "continueButton": "Continue",
+    "countryInput": "Country(ies) of visit",
+    "countryOption": "Germany",
+    "departureDate": "#departureDate",
+    "returnDate": "#returnDate",
+    "dateInput": "dd/mm/yyyy",
+    "viewQuoteLink": "view quote"
+  },
+  "QuotePage": {
+    "nameField": "Name",
+    "emailField": "Email",
+    "mobileField": "Mobile Number",
+    "planList": "li.plan-details",
+    "planName": "h2.plan-name",
+    "premiumText": "span.text-amount"
   }
 
 }
