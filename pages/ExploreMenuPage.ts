@@ -9,12 +9,6 @@ export class ExploreMenuPage {
     this.exploreMenu = page.locator(locators.HealthInsurance.exploreMenu);
     this.dropdown = page.locator(locators.HealthInsurance.dropdown).first();
   }
-  // async navigateToSite(): Promise<void> {
-  //   await this.page.goto('https://www.hdfcergo.com', {
-  //     waitUntil: 'domcontentloaded',
-  //     timeout: 60000
-  //   });
-  // }
 
   async navigateToSite(): Promise<void> {
   await this.page.setViewportSize({ width: 1920, height: 1080 }); // simulate maximize
